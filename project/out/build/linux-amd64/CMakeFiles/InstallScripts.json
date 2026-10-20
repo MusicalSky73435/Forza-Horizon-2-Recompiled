@@ -1,0 +1,39 @@
+{
+	"Configs" : 
+	[
+		"Release"
+	],
+	"InstallScripts" : 
+	[
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/thirdparty/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/thirdparty/xxHash/cmake_unofficial/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/thirdparty/disasm/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/thirdparty/fmt/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/thirdparty/spdlog/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/thirdparty/utfcpp/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/thirdparty/vulkan-headers/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/thirdparty/vulkan-memory-allocator/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/thirdparty/sdl3/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/thirdparty/spirv-headers/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/thirdparty/glslang/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/thirdparty/glslang/External/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/thirdparty/glslang/glslang/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/thirdparty/glslang/glslang/OSDependent/Unix/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/thirdparty/glslang/OGLCompilersDLL/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/thirdparty/glslang/SPIRV/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/thirdparty/glslang/gtests/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/src/core/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/src/filesystem/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/src/ui/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/src/input/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/src/audio/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/src/graphics/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/src/system/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/src/kernel/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/src/codegen/cmake_install.cmake",
+		"/home/flyinggoose/Projets/Lab/xbox360-ports/games/FH2/project/out/build/linux-amd64/rexglue-sdk/src/rexglue/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

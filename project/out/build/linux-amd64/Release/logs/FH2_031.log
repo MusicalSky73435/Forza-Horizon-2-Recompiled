@@ -1,0 +1,1255 @@
+[2026-10-20 02:50:17.714] [info] [core] [t133569] Vulkan instance API version 1.4.363. Enabled layers and extensions:
+[2026-10-20 02:50:17.715] [info] [core] [t133569] * VK_KHR_surface
+[2026-10-20 02:50:17.715] [info] [core] [t133569] * VK_KHR_wayland_surface
+[2026-10-20 02:50:17.715] [info] [core] [t133569] * VK_KHR_xcb_surface
+[2026-10-20 02:50:17.715] [info] [core] [t133569] * VK_EXT_debug_utils
+[2026-10-20 02:50:17.715] [info] [core] [t133569] * VK_KHR_portability_enumeration
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message): linux_read_sorted_physical_devices: (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):      Original order: (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):            [0] Intel(R) UHD Graphics 630 (CFL GT2) (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):            [1] NVIDIA GeForce GTX 1050 Ti (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):      Sorted order: (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):            [0] NVIDIA GeForce GTX 1050 Ti   (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):            [1] Intel(R) UHD Graphics 630 (CFL GT2)   (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message): linux_read_sorted_physical_devices: (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):      Original order: (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):            [0] Intel(R) UHD Graphics 630 (CFL GT2) (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):            [1] NVIDIA GeForce GTX 1050 Ti (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):      Sorted order: (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):            [0] NVIDIA GeForce GTX 1050 Ti   (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):            [1] Intel(R) UHD Graphics 630 (CFL GT2)   (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message): linux_read_sorted_physical_devices: (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):      Original order: (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):            [0] Intel(R) UHD Graphics 630 (CFL GT2) (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):            [1] NVIDIA GeForce GTX 1050 Ti (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):      Sorted order: (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):            [0] NVIDIA GeForce GTX 1050 Ti   (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):            [1] Intel(R) UHD Graphics 630 (CFL GT2)   (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message): linux_read_sorted_physical_devices: (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):      Original order: (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.717] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):            [0] Intel(R) UHD Graphics 630 (CFL GT2) (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.718] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):            [1] NVIDIA GeForce GTX 1050 Ti (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.718] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):      Sorted order: (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.718] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):            [0] NVIDIA GeForce GTX 1050 Ti   (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.718] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):            [1] Intel(R) UHD Graphics 630 (CFL GT2)   (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.718] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message): Removing driver /usr/lib/libvulkan_intel_hasvk.so due to not having any physical devices (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.718] [warning] [core] [t133569] Available Vulkan physical devices (use the 'vulkan_device' configuration variable to force a specific device):
+[2026-10-20 02:50:17.718] [warning] [core] [t133569] * 0: Intel(R) UHD Graphics 630 (CFL GT2)
+[2026-10-20 02:50:17.718] [warning] [core] [t133569] * 1: NVIDIA GeForce GTX 1050 Ti
+[2026-10-20 02:50:17.718] [info] [core] [t133569] Vulkan device 'NVIDIA GeForce GTX 1050 Ti': API 1.4.312, vendor 0x10DE, device 0x1C8C, driver version 0x912C8100
+[2026-10-20 02:50:17.718] [info] [core] [t133569] Enabled Vulkan device extensions:
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * VK_KHR_swapchain
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * VK_EXT_custom_border_color
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * VK_EXT_fragment_shader_interlock
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * VK_EXT_memory_budget
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * VK_EXT_non_seamless_cube_map
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * VK_EXT_present_mode_fifo_latest_ready
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * VK_EXT_robustness2
+[2026-10-20 02:50:17.718] [info] [core] [t133569] Vulkan device properties and enabled features:
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * driverID: NvidiaProprietary
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * driverName: NVIDIA
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * driverInfo: 580.178.04
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * conformanceVersion: 1.4.1.3
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * maxImageDimension2D: 32768
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * maxImageDimension3D: 16384
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * maxImageDimensionCube: 32768
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * maxImageArrayLayers: 2048
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * maxStorageBufferRange: 4294967295
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * maxSamplerAllocationCount: 4000
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * maxPerStageDescriptorSamplers: 1048576
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * maxPerStageDescriptorStorageBuffers: 1048576
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * maxPerStageDescriptorSampledImages: 1048576
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * maxPerStageResources: 4294967295
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * maxVertexOutputComponents: 128
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * maxTessellationEvaluationOutputComponents: 128
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * maxGeometryInputComponents: 128
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * maxGeometryOutputComponents: 128
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * maxFragmentInputComponents: 128
+[2026-10-20 02:50:17.718] [info] [core] [t133569] * maxFragmentCombinedOutputResources: 4294967295
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * maxSamplerAnisotropy: 16
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * maxViewportDimensions[0]: 32768
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * maxViewportDimensions[1]: 32768
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * minUniformBufferOffsetAlignment: 256
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * minStorageBufferOffsetAlignment: 16
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * maxFramebufferWidth: 32768
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * maxFramebufferHeight: 32768
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * framebufferColorSampleCounts: { 1 | 2 | 4 | 8 }
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * framebufferDepthSampleCounts: { 1 | 2 | 4 | 8 }
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * framebufferStencilSampleCounts: { 1 | 2 | 4 | 8 | 16 }
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * framebufferNoAttachmentsSampleCounts: { 1 | 2 | 4 | 8 | 16 }
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * sampledImageColorSampleCounts: { 1 | 2 | 4 | 8 }
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * sampledImageIntegerSampleCounts: { 1 | 2 | 4 | 8 }
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * sampledImageDepthSampleCounts: { 1 | 2 | 4 | 8 }
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * sampledImageStencilSampleCounts: { 1 | 2 | 4 | 8 | 16 }
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * standardSampleLocations: 1
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * optimalBufferCopyOffsetAlignment: 1
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * optimalBufferCopyRowPitchAlignment: 1
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * nonCoherentAtomSize: 64
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * robustBufferAccess
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * fullDrawIndexUint32
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * independentBlend
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * geometryShader
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * tessellationShader
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * sampleRateShading
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * depthClamp
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * fillModeNonSolid
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * samplerAnisotropy
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * occlusionQueryPrecise
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * vertexPipelineStoresAndAtomics
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * fragmentStoresAndAtomics
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * shaderClipDistance
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * shaderCullDistance
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * sparseBinding
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * sparseResidencyBuffer
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * samplerMirrorClampToEdge
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * uniformBufferStandardLayout
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * scalarBlockLayout
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * shaderDemoteToHelperInvocation
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * dynamicRendering
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * constantAlphaColorBlendFactors
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * imageViewFormatReinterpretation
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * imageViewFormatSwizzle
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * pointPolygons
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * separateStencilMaskRef
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * shaderSampleRateInterpolationFunctions
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * shaderSignedZeroInfNanPreserveFloat32: 1
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * shaderDenormFlushToZeroFloat32: 0
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * shaderRoundingModeRTEFloat32: 1
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * fragmentShaderSampleInterlock
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * fragmentShaderPixelInterlock
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * nonSeamlessCubeMap
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * customBorderColors
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * customBorderColorWithoutFormat
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * maxCustomBorderColorSamplers: 4000
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * nullDescriptor
+[2026-10-20 02:50:17.719] [info] [core] [t133569] * presentModeFifoLatestReady
+[2026-10-20 02:50:17.719] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message): Failed to find vkGetDeviceProcAddr in layer "/usr/lib/libVkLayer_MESA_device_select.so" (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.719] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message): vkCreateDevice layer callstack setup to: (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.719] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):    <Application> (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.719] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):      || (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.719] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):    <Loader> (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.719] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):      || (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.719] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):    <Device> (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.719] [info] [gpu] [t133569] Vulkan Info ({ General }, ID 0: Loader Message):        Using "NVIDIA GeForce GTX 1050 Ti" with driver: "/usr/lib/libGLX_nvidia.so.580.178.04" (object 0: Instance 0x556d759b47a0)
+[2026-10-20 02:50:17.762] [info] [core] [t133569] Vulkan device in use: 1: NVIDIA GeForce GTX 1050 Ti (vendor 0x10DE, device 0x1C8C, discrete, API 1.4.312)
+[2026-10-20 02:50:17.767] [info] [core] [t133569] VulkanPresenter: presentation mode 0 (FIFO latest ready: device feature yes, surface offers yes, vulkan_allow_present_mode_fifo_latest_ready true)
+[2026-10-20 02:50:17.776] [info] [core] [t133569] VulkanPresenter: Created 955x1025 swapchain with format 44, color space 0, presentation mode 0
+[2026-10-20 02:50:17.777] [info] [sys] [t133569] Guest memory arena mapped: virtual base 0x0000000100000000, physical base 0x0000000200000000
+[2026-10-20 02:50:18.069] [info] [core] [t133569] Wheel: driver ready (wheel_mode=auto)
+[2026-10-20 02:50:18.146] [info] [gpu] [t133606] VulkanTextureCache: Format k_Cr_Y1_Cb_Y0_REP (unsigned) is supported via a fallback format (using the Vulkan format 37 instead of the preferred 1000156000)
+[2026-10-20 02:50:18.146] [info] [gpu] [t133606] VulkanTextureCache: Format k_Y1_Cr_Y0_Cb_REP (unsigned) is supported via a fallback format (using the Vulkan format 37 instead of the preferred 1000156001)
+[2026-10-20 02:50:18.162] [info] [core] [t133569] Function table initialized for module: code=823F0000-832F258C, image=82000000-83700000
+[2026-10-20 02:50:18.175] [warning] [core] [t133569] SDL GameControllerDB: file 'gamecontrollerdb.txt' does not exist.
+[2026-10-20 02:50:18.175] [info] [core] [t133569] SDL input driver initialized successfully
+[2026-10-20 02:50:18.287] [info] [core] [t133569] Initializing shader storage for title 4D530AA4...
+[2026-10-20 02:50:18.833] [info] [gpu] [t133621] Creating graphics pipeline state with VS 1E6883FCCDE1F688, PS A4A965C189287B99
+[2026-10-20 02:50:18.833] [info] [gpu] [t133622] Creating graphics pipeline state with VS A2FC50159EB69BA2, PS 6E57A6E305D5D69B
+[2026-10-20 02:50:18.833] [info] [gpu] [t133621] Creating graphics pipeline state with VS B6C9863F710683EC
+[2026-10-20 02:50:18.833] [info] [gpu] [t133623] Creating graphics pipeline state with VS B6C9863F710683EC
+[2026-10-20 02:50:18.833] [info] [gpu] [t133621] Creating graphics pipeline state with VS 7156CE05C6365E51, PS 31511D87CC0C94B9
+[2026-10-20 02:50:18.833] [info] [gpu] [t133622] Creating graphics pipeline state with VS A2FC50159EB69BA2, PS 618DD627F3D3B9A4
+[2026-10-20 02:50:18.833] [info] [gpu] [t133624] Creating graphics pipeline state with VS B6C9863F710683EC
+[2026-10-20 02:50:18.833] [info] [gpu] [t133624] Creating graphics pipeline state with VS 1E6883FCCDE1F688, PS A4A965C189287B99
+[2026-10-20 02:50:18.833] [info] [gpu] [t133624] Creating graphics pipeline state with VS B6C9863F710683EC
+[2026-10-20 02:50:18.833] [info] [gpu] [t133624] Creating graphics pipeline state with VS 2C53E1A563484076, PS E17BECBE8BE65806
+[2026-10-20 02:50:18.833] [info] [gpu] [t133622] Creating graphics pipeline state with VS 2C53E1A563484076, PS AE59F518D522BDD1
+[2026-10-20 02:50:18.833] [info] [gpu] [t133625] Creating graphics pipeline state with VS 2C53E1A563484076, PS ED74D20BC7DFB0F7
+[2026-10-20 02:50:18.833] [info] [gpu] [t133626] Creating graphics pipeline state with VS EAC91CBA481D5FF8, PS 4D3934F366930540
+[2026-10-20 02:50:18.833] [info] [gpu] [t133621] Creating graphics pipeline state with VS 7B4F91A75728BCD3, PS D6652B8E4866F16B
+[2026-10-20 02:50:18.833] [info] [gpu] [t133622] Creating graphics pipeline state with VS 1E6883FCCDE1F688
+[2026-10-20 02:50:18.834] [info] [gpu] [t133625] Creating graphics pipeline state with VS 7B4F91A75728BCD3, PS 0732AB80912AE1A0
+[2026-10-20 02:50:18.834] [info] [gpu] [t133622] Creating graphics pipeline state with VS 1E6883FCCDE1F688, PS A4A965C189287B99
+[2026-10-20 02:50:18.834] [info] [gpu] [t133624] Creating graphics pipeline state with VS 2C53E1A563484076, PS 0F5712A5F9D13E62
+[2026-10-20 02:50:18.834] [info] [gpu] [t133622] Creating graphics pipeline state with VS 20A41D46F34D238E, PS 5F479FC40AE93B66
+[2026-10-20 02:50:18.834] [info] [gpu] [t133626] Creating graphics pipeline state with VS 79034645B1CB882B, PS CAE1DB68AFFA9D3C
+[2026-10-20 02:50:18.834] [info] [gpu] [t133621] Creating graphics pipeline state with VS ED90DA6EFF5C6BCA, PS 757012AFFC13CB2A
+[2026-10-20 02:50:18.834] [info] [gpu] [t133624] Creating graphics pipeline state with VS 5E69194D72E68310, PS A39E23E2FD1F8A8B
+[2026-10-20 02:50:18.834] [info] [gpu] [t133623] Creating graphics pipeline state with VS B6C9863F710683EC, PS A4A965C189287B99
+[2026-10-20 02:50:18.834] [info] [gpu] [t133626] Creating graphics pipeline state with VS B6C9863F710683EC, PS A4A965C189287B99
+[2026-10-20 02:50:18.834] [info] [gpu] [t133622] Creating graphics pipeline state with VS 7156CE05C6365E51, PS 31511D87CC0C94B9
+[2026-10-20 02:50:18.834] [info] [gpu] [t133621] Creating graphics pipeline state with VS B6C9863F710683EC, PS A4A965C189287B99
+[2026-10-20 02:50:18.834] [info] [gpu] [t133624] Creating graphics pipeline state with VS C7D52884ECA9A039, PS ED9E0067F9FB5CE3
+[2026-10-20 02:50:18.834] [info] [gpu] [t133626] Creating graphics pipeline state with VS C7D52884ECA9A039, PS 4318C98928C9403D
+[2026-10-20 02:50:18.834] [info] [gpu] [t133622] Creating graphics pipeline state with VS C7D52884ECA9A039, PS C820CF58ABB92FE7
+[2026-10-20 02:50:18.835] [info] [gpu] [t133626] Creating graphics pipeline state with VS C7D52884ECA9A039, PS 64AEAE9314A0118B
+[2026-10-20 02:50:18.835] [info] [gpu] [t133624] Creating graphics pipeline state with VS 20A41D46F34D238E, PS 9AAEF9B81D19D203
+[2026-10-20 02:50:18.835] [info] [gpu] [t133625] Creating graphics pipeline state with VS 6787C8A9CB5D776D, PS 618DD627F3D3B9A4
+[2026-10-20 02:50:18.835] [info] [gpu] [t133626] Creating graphics pipeline state with VS 03226A1CCADE6DC9, PS 0E8CE7D5059CC75D
+[2026-10-20 02:50:18.835] [info] [gpu] [t133624] Creating graphics pipeline state with VS ED90DA6EFF5C6BCA, PS 757012AFFC13CB2A
+[2026-10-20 02:50:18.835] [info] [gpu] [t133626] Creating graphics pipeline state with VS B6C9863F710683EC, PS A4A965C189287B99
+[2026-10-20 02:50:18.835] [info] [gpu] [t133626] Creating graphics pipeline state with VS 6CB0DC8516FE9906, PS 7654536C6811983B
+[2026-10-20 02:50:18.835] [info] [gpu] [t133624] Creating graphics pipeline state with VS 984DBF6AF14DBEBD, PS 6FDA0F1CDE67D12F
+[2026-10-20 02:50:18.835] [info] [gpu] [t133625] Creating graphics pipeline state with VS C7D52884ECA9A039, PS ADD2563BA387C2BF
+[2026-10-20 02:50:18.835] [info] [gpu] [t133621] Creating graphics pipeline state with VS C7D52884ECA9A039, PS ECE830AC0333767F
+[2026-10-20 02:50:18.835] [info] [gpu] [t133623] Creating graphics pipeline state with VS 20A41D46F34D238E, PS FCC1E477D4363AF8
+[2026-10-20 02:50:18.835] [info] [gpu] [t133626] Creating graphics pipeline state with VS 1E6883FCCDE1F688, PS A4A965C189287B99
+[2026-10-20 02:50:18.835] [info] [gpu] [t133626] Creating graphics pipeline state with VS 5E69194D72E68310, PS A39E23E2FD1F8A8B
+[2026-10-20 02:50:18.835] [info] [gpu] [t133625] Creating graphics pipeline state with VS 79034645B1CB882B, PS CAE1DB68AFFA9D3C
+[2026-10-20 02:50:18.835] [info] [gpu] [t133621] Creating graphics pipeline state with VS ED90DA6EFF5C6BCA, PS 757012AFFC13CB2A
+[2026-10-20 02:50:18.835] [info] [gpu] [t133626] Creating graphics pipeline state with VS 2C53E1A563484076, PS 21937679208E59A5
+[2026-10-20 02:50:18.835] [info] [gpu] [t133624] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.835] [info] [gpu] [t133625] Creating graphics pipeline state with VS 0986038CC50E74A7, PS 2FD6A7CBEBD253C5
+[2026-10-20 02:50:18.836] [info] [gpu] [t133621] Creating graphics pipeline state with VS A68D532BA67C9CA8, PS 4D035A14CD31FC2D
+[2026-10-20 02:50:18.836] [info] [gpu] [t133626] Creating graphics pipeline state with VS 29EAD25B53F275EB, PS CF453BD52292E8E8
+[2026-10-20 02:50:18.836] [info] [gpu] [t133625] Creating graphics pipeline state with VS 632457F564735FB1, PS 90CAB86BE8159DA8
+[2026-10-20 02:50:18.836] [info] [gpu] [t133622] Creating graphics pipeline state with VS 84CCFEE905A3BA37, PS FD9976C9E5DB9BB0
+[2026-10-20 02:50:18.836] [info] [gpu] [t133621] Creating graphics pipeline state with VS A1C711F6BD46857A, PS EE3FFB69590792A2
+[2026-10-20 02:50:18.836] [info] [gpu] [t133624] Creating graphics pipeline state with VS B6C9863F710683EC
+[2026-10-20 02:50:18.836] [info] [gpu] [t133624] Creating graphics pipeline state with VS 1E6883FCCDE1F688, PS A4A965C189287B99
+[2026-10-20 02:50:18.836] [info] [gpu] [t133623] Creating graphics pipeline state with VS 956935A38084D1A8, PS C23E686D7A951CE1
+[2026-10-20 02:50:18.836] [info] [gpu] [t133624] Creating graphics pipeline state with VS B6C9863F710683EC
+[2026-10-20 02:50:18.836] [info] [gpu] [t133626] Creating graphics pipeline state with VS 1E6883FCCDE1F688
+[2026-10-20 02:50:18.836] [info] [gpu] [t133624] Creating graphics pipeline state with VS B6C9863F710683EC
+[2026-10-20 02:50:18.836] [info] [gpu] [t133626] Creating graphics pipeline state with VS 1E6883FCCDE1F688, PS A4A965C189287B99
+[2026-10-20 02:50:18.836] [info] [gpu] [t133624] Creating graphics pipeline state with VS 0986038CC50E74A7, PS 2FD6A7CBEBD253C5
+[2026-10-20 02:50:18.836] [info] [gpu] [t133626] Creating graphics pipeline state with VS 29EAD25B53F275EB, PS CF453BD52292E8E8
+[2026-10-20 02:50:18.836] [info] [gpu] [t133624] Creating graphics pipeline state with VS 632457F564735FB1, PS 90CAB86BE8159DA8
+[2026-10-20 02:50:18.836] [info] [gpu] [t133625] Creating graphics pipeline state with VS 84CCFEE905A3BA37, PS FD9976C9E5DB9BB0
+[2026-10-20 02:50:18.836] [info] [gpu] [t133621] Creating graphics pipeline state with VS A1C711F6BD46857A, PS EE3FFB69590792A2
+[2026-10-20 02:50:18.836] [info] [gpu] [t133622] Creating graphics pipeline state with VS 6468E7FEC2CBA0CE
+[2026-10-20 02:50:18.836] [info] [gpu] [t133626] Creating graphics pipeline state with VS 6468E7FEC2CBA0CE
+[2026-10-20 02:50:18.836] [info] [gpu] [t133621] Creating graphics pipeline state with VS 9B5EE39E84345522, PS 8CDF6BDE45CB52DD
+[2026-10-20 02:50:18.836] [info] [gpu] [t133622] Creating graphics pipeline state with VS 40CA81B9A949AEE8, PS 63CB90E28DB69658
+[2026-10-20 02:50:18.836] [info] [gpu] [t133625] Creating graphics pipeline state with VS 1E6883FCCDE1F688, PS A4A965C189287B99
+[2026-10-20 02:50:18.836] [info] [gpu] [t133624] Creating graphics pipeline state with VS 4AC9471CF39D9BE7, PS 676B6C2D37982AD9
+[2026-10-20 02:50:18.836] [info] [gpu] [t133623] Creating graphics pipeline state with VS 29EAD25B53F275EB, PS CF453BD52292E8E8
+[2026-10-20 02:50:18.836] [info] [gpu] [t133625] Creating graphics pipeline state with VS 40CA81B9A949AEE8, PS 63CB90E28DB69658
+[2026-10-20 02:50:18.837] [info] [gpu] [t133621] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.837] [info] [gpu] [t133623] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.837] [info] [gpu] [t133626] Creating graphics pipeline state with VS 8C72A344AFACC6D1, PS B6A5C47095254AD3
+[2026-10-20 02:50:18.837] [info] [gpu] [t133621] Creating graphics pipeline state with VS 73515B7E7D3DB80D, PS 138D3DC65E4A13DB
+[2026-10-20 02:50:18.837] [info] [gpu] [t133624] Creating graphics pipeline state with VS 80F309E220D26DD6, PS C1929EB3194E732F
+[2026-10-20 02:50:18.837] [info] [gpu] [t133623] Creating graphics pipeline state with VS 2C53E1A563484076, PS 21937679208E59A5
+[2026-10-20 02:50:18.837] [info] [gpu] [t133623] Creating graphics pipeline state with VS 82281A5FB565D5C3, PS 66A4BC137EAE22CB
+[2026-10-20 02:50:18.838] [info] [gpu] [t133622] Creating graphics pipeline state with VS CCC390E1C51C2C53, PS AF21AE1E89609DE9
+[2026-10-20 02:50:18.838] [info] [gpu] [t133626] Creating graphics pipeline state with VS E60EF91987B84E9D, PS 5DA02DC0208B4166
+[2026-10-20 02:50:18.838] [info] [gpu] [t133622] Creating graphics pipeline state with VS 11B4EA725E2D82EC, PS 8035B4CE58223601
+[2026-10-20 02:50:18.838] [info] [gpu] [t133623] Creating graphics pipeline state with VS 29DFC07ED7DD16F3, PS 147BBECA1BB6232E
+[2026-10-20 02:50:18.838] [info] [gpu] [t133622] Creating graphics pipeline state with VS 2C8FF4E02D228363, PS BB3756B3866DE218
+[2026-10-20 02:50:18.838] [info] [gpu] [t133625] Creating graphics pipeline state with VS D7B2C1EE85F9CF16, PS 3CA32EE4D0DC519A
+[2026-10-20 02:50:18.838] [info] [gpu] [t133623] Creating graphics pipeline state with VS A3E0EB209F06AB52, PS 2E6E54240D351986
+[2026-10-20 02:50:18.838] [info] [gpu] [t133622] Creating graphics pipeline state with VS D2D7ED15C3169CE9, PS A0767D6689DA2AE3
+[2026-10-20 02:50:18.839] [info] [gpu] [t133621] Creating graphics pipeline state with VS CC571B5698969835, PS CEFA92734D5B6995
+[2026-10-20 02:50:18.839] [info] [gpu] [t133625] Creating graphics pipeline state with VS A478F2E4BDD82213, PS D59CFBF9F0D07A5B
+[2026-10-20 02:50:18.839] [info] [gpu] [t133626] Creating graphics pipeline state with VS C439C986F0046385, PS 82DA6B67D961D999
+[2026-10-20 02:50:18.839] [info] [gpu] [t133623] Creating graphics pipeline state with VS 7347B9C5D8B7DA30, PS C665A33E75ABA1E8
+[2026-10-20 02:50:18.839] [info] [gpu] [t133625] Creating graphics pipeline state with VS 490E79E8E4EA2DBB, PS B8DBAC380D8A58B8
+[2026-10-20 02:50:18.839] [info] [gpu] [t133621] Creating graphics pipeline state with VS 9962E7287C61AC5B, PS 629C63AEF86A4E79
+[2026-10-20 02:50:18.839] [info] [gpu] [t133626] Creating graphics pipeline state with VS 6C76B22F82829AD8, PS D9BDD438C2E19B72
+[2026-10-20 02:50:18.839] [info] [gpu] [t133624] Creating graphics pipeline state with VS 3BBB98053F1D6C37, PS 45CB42D2B2CE57E6
+[2026-10-20 02:50:18.839] [info] [gpu] [t133625] Creating graphics pipeline state with VS 21F272A023C35EB0, PS 1109604AF0DCF01C
+[2026-10-20 02:50:18.839] [info] [gpu] [t133624] Creating graphics pipeline state with VS F035A9B6BF9FE803, PS 23D87C6420340BDA
+[2026-10-20 02:50:18.839] [info] [gpu] [t133623] Creating graphics pipeline state with VS F2CCB12CE20B059E, PS 6DAE1B72B5E73378
+[2026-10-20 02:50:18.839] [info] [gpu] [t133621] Creating graphics pipeline state with VS 1FD435EB47E22E95, PS 6046D443ACD60E14
+[2026-10-20 02:50:18.839] [info] [gpu] [t133623] Creating graphics pipeline state with VS 5D98EE2BF18D4A68, PS DF2278650D26A088
+[2026-10-20 02:50:18.839] [info] [gpu] [t133624] Creating graphics pipeline state with VS 3954D7F61EDE912D, PS A076B1879C3258DF
+[2026-10-20 02:50:18.840] [info] [gpu] [t133621] Creating graphics pipeline state with VS 207F3125C4E0D5B6, PS 485065E8F7E7B195
+[2026-10-20 02:50:18.840] [info] [gpu] [t133625] Creating graphics pipeline state with VS 1EE624C73E2AD819, PS 6752F83C7C24FE36
+[2026-10-20 02:50:18.840] [info] [gpu] [t133623] Creating graphics pipeline state with VS E901EFBF54A46C06, PS 9F21D7B50D3D3631
+[2026-10-20 02:50:18.840] [info] [gpu] [t133622] Creating graphics pipeline state with VS 7E7E4C6822FDCEDC, PS B31E09953D7622F9
+[2026-10-20 02:50:18.840] [info] [gpu] [t133621] Creating graphics pipeline state with VS 94AA8B1D4C68F881, PS 3CD7E5B41D951C95
+[2026-10-20 02:50:18.840] [info] [gpu] [t133626] Creating graphics pipeline state with VS 6653273C2F112BC3, PS 43FB1F25D1C316DB
+[2026-10-20 02:50:18.840] [info] [gpu] [t133624] Creating graphics pipeline state with VS B69865A54B80BB89, PS D0EBE1659012673F
+[2026-10-20 02:50:18.840] [info] [gpu] [t133625] Creating graphics pipeline state with VS 3EA74E3DB132E6F7, PS 5E81D88B20C20FA7
+[2026-10-20 02:50:18.840] [info] [gpu] [t133626] Creating graphics pipeline state with VS 9A9FFCA832CA3A4C, PS E1C4BF015B27EB92
+[2026-10-20 02:50:18.840] [info] [gpu] [t133621] Creating graphics pipeline state with VS 5DDA33483D23BBCD, PS 8659BF30B3CBBBA5
+[2026-10-20 02:50:18.840] [info] [gpu] [t133624] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.840] [info] [gpu] [t133624] Creating graphics pipeline state with VS 6468E7FEC2CBA0CE
+[2026-10-20 02:50:18.840] [info] [gpu] [t133624] Creating graphics pipeline state with VS 6468E7FEC2CBA0CE
+[2026-10-20 02:50:18.840] [info] [gpu] [t133624] Creating graphics pipeline state with VS 9B5EE39E84345522, PS 8CDF6BDE45CB52DD
+[2026-10-20 02:50:18.840] [info] [gpu] [t133625] Creating graphics pipeline state with VS 0DA646D6DB8CE06C, PS 43C27E18C178F912
+[2026-10-20 02:50:18.840] [info] [gpu] [t133624] Creating graphics pipeline state with VS 5F60E33EB3BA6309, PS CB3B60594E2A3E66
+[2026-10-20 02:50:18.840] [info] [gpu] [t133626] Creating graphics pipeline state with VS 83D57891F2FA5074, PS 0B39CFDF01153E0D
+[2026-10-20 02:50:18.841] [info] [gpu] [t133621] Creating graphics pipeline state with VS 0DA646D6DB8CE06C, PS 43C27E18C178F912
+[2026-10-20 02:50:18.841] [info] [gpu] [t133626] Creating graphics pipeline state with VS 180F3CF6A13C01F3, PS 3C303254EC8B306B
+[2026-10-20 02:50:18.841] [info] [gpu] [t133624] Creating graphics pipeline state with VS 180F3CF6A13C01F3, PS 3C303254EC8B306B
+[2026-10-20 02:50:18.841] [info] [gpu] [t133625] Creating graphics pipeline state with VS 9374AE2D0E274D27, PS AD6EC778F4D043E5
+[2026-10-20 02:50:18.841] [info] [gpu] [t133626] Creating graphics pipeline state with VS 9374AE2D0E274D27, PS AD6EC778F4D043E5
+[2026-10-20 02:50:18.841] [info] [gpu] [t133626] Creating graphics pipeline state with VS 32D44DED0DF7252A, PS 05340F900435569E
+[2026-10-20 02:50:18.841] [info] [gpu] [t133623] Creating graphics pipeline state with VS 2C53E1A563484076, PS 4768317398AFF2C8
+[2026-10-20 02:50:18.841] [info] [gpu] [t133622] Creating graphics pipeline state with VS 3967747739E28BF8, PS 97380D6666B1668B
+[2026-10-20 02:50:18.841] [info] [gpu] [t133623] Creating graphics pipeline state with VS 3967747739E28BF8, PS BA7A2909414A6494
+[2026-10-20 02:50:18.841] [info] [gpu] [t133626] Creating graphics pipeline state with VS 20A41D46F34D238E, PS 614588022744BF6B
+[2026-10-20 02:50:18.841] [info] [gpu] [t133622] Creating graphics pipeline state with VS 80D7313ACE978EE9, PS 57FDC22716AF0A43
+[2026-10-20 02:50:18.841] [info] [gpu] [t133623] Creating graphics pipeline state with VS A13394C47C7210C6, PS BCE9B5D86566C8D0
+[2026-10-20 02:50:18.842] [info] [gpu] [t133622] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.842] [info] [gpu] [t133626] Creating graphics pipeline state with VS 80D7313ACE978EE9, PS E40BC11D0708F725
+[2026-10-20 02:50:18.842] [info] [gpu] [t133622] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS 3F1B0DB28B94245F
+[2026-10-20 02:50:18.842] [info] [gpu] [t133623] Creating graphics pipeline state with VS 8068AD70A9976E19, PS 1F97AEB7668A3AD4
+[2026-10-20 02:50:18.842] [info] [gpu] [t133621] Creating graphics pipeline state with VS 5DB1ECF39EA11DB0, PS 6508BAC22C4E1720
+[2026-10-20 02:50:18.842] [info] [gpu] [t133624] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS 5C49BA34467BBE46
+[2026-10-20 02:50:18.842] [info] [gpu] [t133625] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS A0C26078F37B8971
+[2026-10-20 02:50:18.842] [info] [gpu] [t133623] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS 56D45C45966FD938
+[2026-10-20 02:50:18.842] [info] [gpu] [t133626] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS EFCA69AA2BEE366B
+[2026-10-20 02:50:18.842] [info] [gpu] [t133622] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS 9D86C9913458AE3C
+[2026-10-20 02:50:18.842] [info] [gpu] [t133624] Creating graphics pipeline state with VS 6DCC667E06D47E4C, PS 594496C0FCCDD4B2
+[2026-10-20 02:50:18.842] [info] [gpu] [t133626] Creating graphics pipeline state with VS 80D7313ACE978EE9, PS 2E961BA3A6FFF0EE
+[2026-10-20 02:50:18.842] [info] [gpu] [t133621] Creating graphics pipeline state with VS 1193B16753866698, PS B301AB2E8B5479D9
+[2026-10-20 02:50:18.842] [info] [gpu] [t133625] Creating graphics pipeline state with VS A13394C47C7210C6, PS 36926AECC5DD2AAA
+[2026-10-20 02:50:18.842] [info] [gpu] [t133622] Creating graphics pipeline state with VS 5080CCF856774FEF, PS 074C42CCF19D0CA3
+[2026-10-20 02:50:18.842] [info] [gpu] [t133623] Creating graphics pipeline state with VS C1830DF50358E27D, PS 8DF43F55BA41DB44
+[2026-10-20 02:50:18.843] [info] [gpu] [t133626] Creating graphics pipeline state with VS C1830DF50358E27D, PS CB320DCE65F06D7B
+[2026-10-20 02:50:18.843] [info] [gpu] [t133624] Creating graphics pipeline state with VS 1193B16753866698, PS F61E477F2E8626D3
+[2026-10-20 02:50:18.843] [info] [gpu] [t133622] Creating graphics pipeline state with VS A13394C47C7210C6, PS 950258BC58C9384F
+[2026-10-20 02:50:18.843] [info] [gpu] [t133625] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS 9D86C9913458AE3C
+[2026-10-20 02:50:18.843] [info] [gpu] [t133623] Creating graphics pipeline state with VS 80D7313ACE978EE9, PS 4E4466C44F279080
+[2026-10-20 02:50:18.843] [info] [gpu] [t133621] Creating graphics pipeline state with VS CCE7D53C54C31B07, PS CB357A0D68D92BAE
+[2026-10-20 02:50:18.843] [info] [gpu] [t133622] Creating graphics pipeline state with VS E3552310E94F48FD, PS CB357A0D68D92BAE
+[2026-10-20 02:50:18.843] [info] [gpu] [t133626] Creating graphics pipeline state with VS 239A3321341ABD32, PS 272C10A40DDBFE88
+[2026-10-20 02:50:18.843] [info] [gpu] [t133623] Creating graphics pipeline state with VS 8EE16AB65DA59360, PS 8366BBA23A3CBE45
+[2026-10-20 02:50:18.843] [info] [gpu] [t133624] Creating graphics pipeline state with VS 8EE16AB65DA59360, PS 1C2A85F7FD89417C
+[2026-10-20 02:50:18.843] [info] [gpu] [t133625] Creating graphics pipeline state with VS 8EE16AB65DA59360, PS A5E2C1C0B9C41871
+[2026-10-20 02:50:18.843] [info] [gpu] [t133621] Creating graphics pipeline state with VS C1830DF50358E27D, PS 34DE4D8ECA877714
+[2026-10-20 02:50:18.843] [info] [gpu] [t133624] Creating graphics pipeline state with VS C1830DF50358E27D, PS 534FFE76082BBD2D
+[2026-10-20 02:50:18.844] [info] [gpu] [t133623] Creating graphics pipeline state with VS C1830DF50358E27D, PS CFED5ACE22075953
+[2026-10-20 02:50:18.844] [info] [gpu] [t133625] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.844] [info] [gpu] [t133626] Creating graphics pipeline state with VS E672B38FF33553C7, PS E564AAD0B35834AD
+[2026-10-20 02:50:18.844] [info] [gpu] [t133625] Creating graphics pipeline state with VS 5DB1ECF39EA11DB0, PS 6508BAC22C4E1720
+[2026-10-20 02:50:18.844] [info] [gpu] [t133621] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS EFCA69AA2BEE366B
+[2026-10-20 02:50:18.844] [info] [gpu] [t133624] Creating graphics pipeline state with VS 1193B16753866698, PS 8ECC949AA1C130A0
+[2026-10-20 02:50:18.844] [info] [gpu] [t133625] Creating graphics pipeline state with VS C1830DF50358E27D, PS 18516830AF8E631E
+[2026-10-20 02:50:18.844] [info] [gpu] [t133621] Creating graphics pipeline state with VS 65EE02B3A6BDF3C2, PS DCA57B9428AAD110
+[2026-10-20 02:50:18.844] [info] [gpu] [t133626] Creating graphics pipeline state with VS E3552310E94F48FD, PS CB357A0D68D92BAE
+[2026-10-20 02:50:18.844] [info] [gpu] [t133624] Creating graphics pipeline state with VS 239A3321341ABD32, PS A5E2C1C0B9C41871
+[2026-10-20 02:50:18.844] [info] [gpu] [t133622] Creating graphics pipeline state with VS 088F1C7263B0B56D, PS 06A9714DBBE94FFF
+[2026-10-20 02:50:18.844] [info] [gpu] [t133624] Creating graphics pipeline state with VS 239A3321341ABD32, PS 272C10A40DDBFE88
+[2026-10-20 02:50:18.844] [info] [gpu] [t133624] Creating graphics pipeline state with VS F373232DFCBF4F3B, PS 7183669606E5EC47
+[2026-10-20 02:50:18.844] [info] [gpu] [t133625] Creating graphics pipeline state with VS D5960C68AFB971E4, PS AE96AF77CF6C5DA6
+[2026-10-20 02:50:18.844] [info] [gpu] [t133621] Creating graphics pipeline state with VS 69B4847D489007C7, PS DCA57B9428AAD110
+[2026-10-20 02:50:18.844] [info] [gpu] [t133622] Creating graphics pipeline state with VS 92ED1B390014EB4D, PS DCA57B9428AAD110
+[2026-10-20 02:50:18.845] [info] [gpu] [t133624] Creating graphics pipeline state with VS 2066024AA0D53BD0, PS 882CB016B0C56ECA
+[2026-10-20 02:50:18.845] [info] [gpu] [t133625] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.845] [info] [gpu] [t133621] Creating graphics pipeline state with VS 4F0E70E78478BA6E, PS DCA57B9428AAD110
+[2026-10-20 02:50:18.845] [info] [gpu] [t133622] Creating graphics pipeline state with VS B5EA583C830862F4, PS AD38D0DA1BC0324A
+[2026-10-20 02:50:18.845] [info] [gpu] [t133625] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS A0C26078F37B8971
+[2026-10-20 02:50:18.845] [info] [gpu] [t133623] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS 56D45C45966FD938
+[2026-10-20 02:50:18.845] [info] [gpu] [t133621] Creating graphics pipeline state with VS 6740F301934D53D4, PS A9B24DF89A852A86
+[2026-10-20 02:50:18.845] [info] [gpu] [t133624] Creating graphics pipeline state with VS C1830DF50358E27D, PS CCEB345C01A8DE30
+[2026-10-20 02:50:18.845] [info] [gpu] [t133626] Creating graphics pipeline state with VS 6934E161812AB10B, PS C0E286228970074D
+[2026-10-20 02:50:18.845] [info] [gpu] [t133625] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.845] [info] [gpu] [t133625] Creating graphics pipeline state with VS FBAE8590DD9B00D7, PS EA3F85D3A856641B
+[2026-10-20 02:50:18.845] [info] [gpu] [t133622] Creating graphics pipeline state with VS 5DB1ECF39EA11DB0, PS DBE169F32F327593
+[2026-10-20 02:50:18.845] [info] [gpu] [t133623] Creating graphics pipeline state with VS 1193B16753866698, PS 5C532A25EE522139
+[2026-10-20 02:50:18.845] [info] [gpu] [t133621] Creating graphics pipeline state with VS 162B49A2B1B4A79F, PS D8779AEA674A54B7
+[2026-10-20 02:50:18.845] [info] [gpu] [t133625] Creating graphics pipeline state with VS 093D4CA31D65FB75, PS 539D4A36B27B206D
+[2026-10-20 02:50:18.845] [info] [gpu] [t133624] Creating graphics pipeline state with VS 3515EA80889F482D, PS 80AFE921A9747BF8
+[2026-10-20 02:50:18.845] [info] [gpu] [t133622] Creating graphics pipeline state with VS 5DB1ECF39EA11DB0, PS A60452945A574A97
+[2026-10-20 02:50:18.845] [info] [gpu] [t133626] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS 5C49BA34467BBE46
+[2026-10-20 02:50:18.846] [info] [gpu] [t133622] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS 80E3DCE6564F2367
+[2026-10-20 02:50:18.846] [info] [gpu] [t133626] Creating graphics pipeline state with VS 093D4CA31D65FB75, PS 539D4A36B27B206D
+[2026-10-20 02:50:18.846] [info] [gpu] [t133623] Creating graphics pipeline state with VS 5080CCF856774FEF, PS 337DBFF63E6166AE
+[2026-10-20 02:50:18.846] [info] [gpu] [t133621] Creating graphics pipeline state with VS 9554254660FD2BD2, PS E5D995EEF9243891
+[2026-10-20 02:50:18.846] [info] [gpu] [t133625] Creating graphics pipeline state with VS 34BA51B282130FF0, PS 7D5784B818252517
+[2026-10-20 02:50:18.846] [info] [gpu] [t133624] Creating graphics pipeline state with VS 3F2D18B20304B6FF, PS 10DB6ADE694E1A27
+[2026-10-20 02:50:18.846] [info] [gpu] [t133622] Creating graphics pipeline state with VS 5DB1ECF39EA11DB0, PS A7E0B596A57DF2C6
+[2026-10-20 02:50:18.847] [info] [gpu] [t133626] Creating graphics pipeline state with VS DAED061BBE4C6ED2, PS 0BD18F1BDC5B5E45
+[2026-10-20 02:50:18.847] [info] [gpu] [t133625] Creating graphics pipeline state with VS 1E6883FCCDE1F688
+[2026-10-20 02:50:18.847] [info] [gpu] [t133625] Creating graphics pipeline state with VS 1E6883FCCDE1F688
+[2026-10-20 02:50:18.847] [info] [gpu] [t133625] Creating graphics pipeline state with VS A7C42B4E85545197, PS 1DC52A0BEEF36CA6
+[2026-10-20 02:50:18.848] [info] [gpu] [t133623] Creating graphics pipeline state with VS CFC8A180A81546BA, PS 1DC52A0BEEF36CA6
+[2026-10-20 02:50:18.848] [info] [gpu] [t133621] Creating graphics pipeline state with VS 6AA326F71D0E172C, PS 7402DC07D22E5400
+[2026-10-20 02:50:18.848] [info] [gpu] [t133625] Creating graphics pipeline state with VS 9BF2991815B941B9
+[2026-10-20 02:50:18.848] [info] [gpu] [t133624] Creating graphics pipeline state with VS D0C40C04F166092E
+[2026-10-20 02:50:18.848] [info] [gpu] [t133623] Creating graphics pipeline state with VS F144B94587B30A47
+[2026-10-20 02:50:18.848] [info] [gpu] [t133621] Creating graphics pipeline state with VS B646F85EF69A57E0
+[2026-10-20 02:50:18.848] [info] [gpu] [t133623] Creating graphics pipeline state with VS C8C39E5AE1B08DE6
+[2026-10-20 02:50:18.848] [info] [gpu] [t133622] Creating graphics pipeline state with VS 0041ED33AC536E1F, PS 6157765597F0B322
+[2026-10-20 02:50:18.848] [info] [gpu] [t133621] Creating graphics pipeline state with VS 24275E411D960376, PS 6157765597F0B322
+[2026-10-20 02:50:18.848] [info] [gpu] [t133626] Creating graphics pipeline state with VS BC26E48A3A352751, PS 6157765597F0B322
+[2026-10-20 02:50:18.848] [info] [gpu] [t133623] Creating graphics pipeline state with VS CD62AD613B160678, PS 6157765597F0B322
+[2026-10-20 02:50:18.848] [info] [gpu] [t133624] Creating graphics pipeline state with VS D2844F63A3D095CF
+[2026-10-20 02:50:18.848] [info] [gpu] [t133622] Creating graphics pipeline state with VS FEE5065DD26ED859, PS 6157765597F0B322
+[2026-10-20 02:50:18.848] [info] [gpu] [t133624] Creating graphics pipeline state with VS C8C39E5AE1B08DE6
+[2026-10-20 02:50:18.848] [info] [gpu] [t133624] Creating graphics pipeline state with VS E6A393D7D8607298
+[2026-10-20 02:50:18.848] [info] [gpu] [t133625] Creating graphics pipeline state with VS 6DCCD26FDE68A0C2
+[2026-10-20 02:50:18.848] [info] [gpu] [t133622] Creating graphics pipeline state with VS F1C866D045DAF0EC, PS 6157765597F0B322
+[2026-10-20 02:50:18.848] [info] [gpu] [t133624] Creating graphics pipeline state with VS 5649C865ED5CB00F
+[2026-10-20 02:50:18.848] [info] [gpu] [t133625] Creating graphics pipeline state with VS 82F3CADAA6EB9BE3
+[2026-10-20 02:50:18.848] [info] [gpu] [t133624] Creating graphics pipeline state with VS 1FD435EB47E22E95, PS 6046D443ACD60E14
+[2026-10-20 02:50:18.848] [info] [gpu] [t133625] Creating graphics pipeline state with VS B071AC2B103CD2F3
+[2026-10-20 02:50:18.848] [info] [gpu] [t133622] Creating graphics pipeline state with VS AE956DE7FF3256B0
+[2026-10-20 02:50:18.848] [info] [gpu] [t133622] Creating graphics pipeline state with VS B5C1F8D3D9E11F38
+[2026-10-20 02:50:18.848] [info] [gpu] [t133625] Creating graphics pipeline state with VS AADB34777C4C6566
+[2026-10-20 02:50:18.848] [info] [gpu] [t133622] Creating graphics pipeline state with VS C8C39E5AE1B08DE6
+[2026-10-20 02:50:18.848] [info] [gpu] [t133622] Creating graphics pipeline state with VS B646F85EF69A57E0
+[2026-10-20 02:50:18.849] [info] [gpu] [t133622] Creating graphics pipeline state with VS 857592C05F0CF86C, PS AE05E925629FAD04
+[2026-10-20 02:50:18.849] [info] [gpu] [t133625] Creating graphics pipeline state with VS 6852BD503443E10E
+[2026-10-20 02:50:18.849] [info] [gpu] [t133624] Creating graphics pipeline state with VS 9BF2991815B941B9
+[2026-10-20 02:50:18.849] [info] [gpu] [t133624] Creating graphics pipeline state with VS 0041ED33AC536E1F, PS 6157765597F0B322
+[2026-10-20 02:50:18.849] [info] [gpu] [t133624] Creating graphics pipeline state with VS F611964C03D32A48, PS 7402DC07D22E5400
+[2026-10-20 02:50:18.849] [info] [gpu] [t133622] Creating graphics pipeline state with VS BC26E48A3A352751, PS 6157765597F0B322
+[2026-10-20 02:50:18.849] [info] [gpu] [t133625] Creating graphics pipeline state with VS 24275E411D960376, PS 6157765597F0B322
+[2026-10-20 02:50:18.849] [info] [gpu] [t133622] Creating graphics pipeline state with VS F144B94587B30A47
+[2026-10-20 02:50:18.849] [info] [gpu] [t133622] Creating graphics pipeline state with VS D0C40C04F166092E
+[2026-10-20 02:50:18.849] [info] [gpu] [t133625] Creating graphics pipeline state with VS CD62AD613B160678, PS 6157765597F0B322
+[2026-10-20 02:50:18.849] [info] [gpu] [t133622] Creating graphics pipeline state with VS FEE5065DD26ED859, PS 6157765597F0B322
+[2026-10-20 02:50:18.849] [info] [gpu] [t133625] Creating graphics pipeline state with VS F2E7C4E2874B9EC6, PS C1648AAEC57FCBEA
+[2026-10-20 02:50:18.849] [info] [gpu] [t133624] Creating graphics pipeline state with VS B6C9863F710683EC
+[2026-10-20 02:50:18.849] [info] [gpu] [t133622] Creating graphics pipeline state with VS 79578C09383D5685
+[2026-10-20 02:50:18.849] [info] [gpu] [t133624] Creating graphics pipeline state with VS 1E6883FCCDE1F688, PS A4A965C189287B99
+[2026-10-20 02:50:18.849] [info] [gpu] [t133624] Creating graphics pipeline state with VS 88FD4757BA423D4F
+[2026-10-20 02:50:18.849] [info] [gpu] [t133622] Creating graphics pipeline state with VS A3B9ED5D5C87230E, PS 93626E75D17576C5
+[2026-10-20 02:50:18.849] [info] [gpu] [t133624] Creating graphics pipeline state with VS A3B9ED5D5C87230E, PS 26EB620936001876
+[2026-10-20 02:50:18.849] [info] [gpu] [t133625] Creating graphics pipeline state with VS 1E6883FCCDE1F688
+[2026-10-20 02:50:18.849] [info] [gpu] [t133625] Creating graphics pipeline state with VS A3B9ED5D5C87230E, PS 93626E75D17576C5
+[2026-10-20 02:50:18.849] [info] [gpu] [t133621] Creating graphics pipeline state with VS A3B9ED5D5C87230E, PS 11824C2EC1B156C6
+[2026-10-20 02:50:18.849] [info] [gpu] [t133626] Creating graphics pipeline state with VS A3B9ED5D5C87230E, PS 26C4FD34AECBE4DE
+[2026-10-20 02:50:18.849] [info] [gpu] [t133623] Creating graphics pipeline state with VS A3B9ED5D5C87230E, PS FCDF9BE8C57F7D01
+[2026-10-20 02:50:18.849] [info] [gpu] [t133624] Creating graphics pipeline state with VS A3B9ED5D5C87230E, PS 8418C40F121D7EA7
+[2026-10-20 02:50:18.849] [info] [gpu] [t133621] Creating graphics pipeline state with VS A3B9ED5D5C87230E, PS 22DA22B5639EBAE4
+[2026-10-20 02:50:18.849] [info] [gpu] [t133624] Creating graphics pipeline state with VS D5E12A97B3A84881, PS 58CE51CE56247C16
+[2026-10-20 02:50:18.850] [info] [gpu] [t133621] Creating graphics pipeline state with VS 2BC20E0D35A6C951, PS 15F185916C30B53E
+[2026-10-20 02:50:18.850] [info] [gpu] [t133624] Creating graphics pipeline state with VS 5DB1ECF39EA11DB0, PS 36C1BDBED5B81F8B
+[2026-10-20 02:50:18.850] [info] [gpu] [t133624] Creating graphics pipeline state with VS F1C866D045DAF0EC, PS 6157765597F0B322
+[2026-10-20 02:50:18.850] [info] [gpu] [t133624] Creating graphics pipeline state with VS AE55211796C5B568, PS B59CC837361400E6
+[2026-10-20 02:50:18.850] [info] [gpu] [t133624] Creating graphics pipeline state with VS 239A3321341ABD32, PS A5E2C1C0B9C41871
+[2026-10-20 02:50:18.850] [info] [gpu] [t133624] Creating graphics pipeline state with VS D903C6EE19FAFA4A, PS 0C403FDFFAD32EBC
+[2026-10-20 02:50:18.850] [info] [gpu] [t133621] Creating graphics pipeline state with VS C155B156381C4F79, PS FD3C7D1C7B2631BD
+[2026-10-20 02:50:18.850] [info] [gpu] [t133625] Creating graphics pipeline state with VS 990964888F7A3ABB, PS C5384BF908794DFD
+[2026-10-20 02:50:18.850] [info] [gpu] [t133622] Creating graphics pipeline state with VS 99C45F204EC83F32, PS 50E277C8C96BABFB
+[2026-10-20 02:50:18.850] [info] [gpu] [t133622] Creating graphics pipeline state with VS 8E0866A3AF51DE79, PS 22B3C387EFA0524B
+[2026-10-20 02:50:18.850] [info] [gpu] [t133622] Creating graphics pipeline state with VS 432941739845CBE4, PS E19E258CAE6D207F
+[2026-10-20 02:50:18.850] [info] [gpu] [t133625] Creating graphics pipeline state with VS 315DE8552A850915, PS 1D6C4583690E1898
+[2026-10-20 02:50:18.850] [info] [gpu] [t133624] Creating graphics pipeline state with VS 49EC3B2BDAE91F79, PS 32B4E3E497CE1288
+[2026-10-20 02:50:18.850] [info] [gpu] [t133626] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS E94B980E97BDB5F3
+[2026-10-20 02:50:18.850] [info] [gpu] [t133624] Creating graphics pipeline state with VS 6D091A9A93D95CAC, PS 23BC24D5F67172E2
+[2026-10-20 02:50:18.850] [info] [gpu] [t133621] Creating graphics pipeline state with VS 2784083C655A1C1A, PS 29121FCE5633D4B9
+[2026-10-20 02:50:18.850] [info] [gpu] [t133621] Creating graphics pipeline state with VS 8228EF2514A6913A, PS 130484582B428E49
+[2026-10-20 02:50:18.850] [info] [gpu] [t133625] Creating graphics pipeline state with VS D44345EB1068D77E, PS 07CF657E2D72EA8E
+[2026-10-20 02:50:18.850] [info] [gpu] [t133623] Creating graphics pipeline state with VS F39CE6EBDACDC673, PS BEE42B83918C1F2F
+[2026-10-20 02:50:18.850] [info] [gpu] [t133621] Creating graphics pipeline state with VS 42FB7EAAA158E0DB, PS 04C0C1AFCA4BF831
+[2026-10-20 02:50:18.850] [info] [gpu] [t133623] Creating graphics pipeline state with VS 4170B3C23D011DFD, PS CCF0B8996DA05C81
+[2026-10-20 02:50:18.851] [info] [gpu] [t133626] Creating graphics pipeline state with VS 5C1400BA97BE035C, PS 51552FC80F537D45
+[2026-10-20 02:50:18.851] [info] [gpu] [t133622] Creating graphics pipeline state with VS 6C6FE42E7E5404FC, PS DD5451B62D3F68FA
+[2026-10-20 02:50:18.851] [info] [gpu] [t133626] Creating graphics pipeline state with VS 0DDD1E21D97B14B7
+[2026-10-20 02:50:18.851] [info] [gpu] [t133622] Creating graphics pipeline state with VS 0DDD1E21D97B14B7
+[2026-10-20 02:50:18.851] [info] [gpu] [t133626] Creating graphics pipeline state with VS 88DF788D6FB82CC3
+[2026-10-20 02:50:18.851] [info] [gpu] [t133624] Creating graphics pipeline state with VS D25C81F5BF6DD4C6, PS 7C8561BF36D8A56C
+[2026-10-20 02:50:18.851] [info] [gpu] [t133623] Creating graphics pipeline state with VS D25C81F5BF6DD4C6, PS 807A46F500E448B9
+[2026-10-20 02:50:18.851] [info] [gpu] [t133626] Creating graphics pipeline state with VS D25C81F5BF6DD4C6, PS 807A46F500E448B9
+[2026-10-20 02:50:18.851] [info] [gpu] [t133624] Creating graphics pipeline state with VS D25C81F5BF6DD4C6, PS E3D931FC98C38F54
+[2026-10-20 02:50:18.851] [info] [gpu] [t133625] Creating graphics pipeline state with VS 6934E161812AB10B, PS 8FD8A7E1CD736FE7
+[2026-10-20 02:50:18.851] [info] [gpu] [t133624] Creating graphics pipeline state with VS 088F1C7263B0B56D, PS E9C0EBF16DF28008
+[2026-10-20 02:50:18.851] [info] [gpu] [t133625] Creating graphics pipeline state with VS D5960C68AFB971E4, PS 220308E7C200D95C
+[2026-10-20 02:50:18.851] [info] [gpu] [t133624] Creating graphics pipeline state with VS 7CD5A236D3A01D3F, PS 2B83D3E3C1FCEE3C
+[2026-10-20 02:50:18.851] [info] [gpu] [t133621] Creating graphics pipeline state with VS D3EE3BD1E086935B, PS CE7C54664D18A4E3
+[2026-10-20 02:50:18.851] [info] [gpu] [t133624] Creating graphics pipeline state with VS D1CB4B255E18AF8C, PS EF19FC0DAE5ACDB1
+[2026-10-20 02:50:18.851] [info] [gpu] [t133625] Creating graphics pipeline state with VS FCFFA380D8FCA777, PS E9F0FA7CF7905F32
+[2026-10-20 02:50:18.852] [info] [gpu] [t133621] Creating graphics pipeline state with VS 23C4732E18FA6264, PS 165D2B63E7B7C39B
+[2026-10-20 02:50:18.852] [info] [gpu] [t133624] Creating graphics pipeline state with VS 6740F301934D53D4, PS E2CB3E74AFBFD92A
+[2026-10-20 02:50:18.852] [info] [gpu] [t133622] Creating graphics pipeline state with VS 2BC20E0D35A6C951, PS 15F185916C30B53E
+[2026-10-20 02:50:18.852] [info] [gpu] [t133625] Creating graphics pipeline state with VS F73DECA606D6342E, PS 49EBBD4EC71B92FD
+[2026-10-20 02:50:18.852] [info] [gpu] [t133623] Creating graphics pipeline state with VS AF60981EEFC2E54E, PS 280C87B608830E65
+[2026-10-20 02:50:18.852] [info] [gpu] [t133626] Creating graphics pipeline state with VS D2844F63A3D095CF
+[2026-10-20 02:50:18.852] [info] [gpu] [t133622] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS B62C3A82631CDFC0
+[2026-10-20 02:50:18.852] [info] [gpu] [t133626] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS B62C3A82631CDFC0
+[2026-10-20 02:50:18.852] [info] [gpu] [t133621] Creating graphics pipeline state with VS A2479D98E425985C, PS 382F79283C83D5D0
+[2026-10-20 02:50:18.852] [info] [gpu] [t133624] Creating graphics pipeline state with VS 980FD0C7E9A513E0, PS 5F67B814015B8219
+[2026-10-20 02:50:18.852] [info] [gpu] [t133622] Creating graphics pipeline state with VS 088F1C7263B0B56D, PS 2CE48B11F38A97FF
+[2026-10-20 02:50:18.852] [info] [gpu] [t133626] Creating graphics pipeline state with VS ED41BE0DB50EF7BF, PS EE4B38ABDB01DE9F
+[2026-10-20 02:50:18.852] [info] [gpu] [t133621] Creating graphics pipeline state with VS 8EE16AB65DA59360, PS 2A7B6EEA38940A90
+[2026-10-20 02:50:18.852] [info] [gpu] [t133623] Creating graphics pipeline state with VS 52CEF22978901994, PS 2B0EC8BF49B5B1B7
+[2026-10-20 02:50:18.852] [info] [gpu] [t133625] Creating graphics pipeline state with VS AA2E193C4082B70E, PS CBF0197A64EF525D
+[2026-10-20 02:50:18.853] [info] [gpu] [t133625] Creating graphics pipeline state with VS 1570675DBED9182E, PS 2F61A7BF2F6AB612
+[2026-10-20 02:50:18.853] [info] [gpu] [t133624] Creating graphics pipeline state with VS 5DB1ECF39EA11DB0, PS 4743688CDA35868A
+[2026-10-20 02:50:18.853] [info] [gpu] [t133626] Creating graphics pipeline state with VS 1A07CCDE0D5F276C
+[2026-10-20 02:50:18.853] [info] [gpu] [t133622] Creating graphics pipeline state with VS 1193B16753866698, PS 5C532A25EE522139
+[2026-10-20 02:50:18.853] [info] [gpu] [t133622] Creating graphics pipeline state with VS D3F9120B8916DCFF, PS 4CF5D9CFDE918DCC
+[2026-10-20 02:50:18.853] [info] [gpu] [t133621] Creating graphics pipeline state with VS 1A07CCDE0D5F276C
+[2026-10-20 02:50:18.853] [info] [gpu] [t133626] Creating graphics pipeline state with VS 0DDD1E21D97B14B7
+[2026-10-20 02:50:18.853] [info] [gpu] [t133626] Creating graphics pipeline state with VS A13394C47C7210C6, PS BCE9B5D86566C8D0
+[2026-10-20 02:50:18.853] [info] [gpu] [t133624] Creating graphics pipeline state with VS A2479D98E425985C, PS DCAA439DDC210D44
+[2026-10-20 02:50:18.853] [info] [gpu] [t133623] Creating graphics pipeline state with VS FAAEC8A9D3CA90E1, PS 846FDF87FA0752E9
+[2026-10-20 02:50:18.853] [info] [gpu] [t133625] Creating graphics pipeline state with VS AA68B5B87951CD96, PS 163CE95AC0B6D163
+[2026-10-20 02:50:18.853] [info] [gpu] [t133625] Creating graphics pipeline state with VS 19BE7086241F8D02, PS 1E6ED1B7C1DDB6F2
+[2026-10-20 02:50:18.853] [info] [gpu] [t133624] Creating graphics pipeline state with VS D0C40C04F166092E
+[2026-10-20 02:50:18.853] [info] [gpu] [t133624] Creating graphics pipeline state with VS B071AC2B103CD2F3
+[2026-10-20 02:50:18.853] [info] [gpu] [t133624] Creating graphics pipeline state with VS AE956DE7FF3256B0
+[2026-10-20 02:50:18.853] [info] [gpu] [t133623] Creating graphics pipeline state with VS 3805429FBEA641F6, PS 7D37972741B4D1C2
+[2026-10-20 02:50:18.853] [info] [gpu] [t133624] Creating graphics pipeline state with VS 79137E9937B92F2D, PS D8B7320339E3A223
+[2026-10-20 02:50:18.853] [info] [gpu] [t133626] Creating graphics pipeline state with VS 2C53E1A563484076, PS 5F08ED927205FA99
+[2026-10-20 02:50:18.853] [info] [gpu] [t133625] Creating graphics pipeline state with VS 2C53E1A563484076, PS A30FF01A1C0A18B9
+[2026-10-20 02:50:18.854] [info] [gpu] [t133622] Creating graphics pipeline state with VS A3B9ED5D5C87230E, PS 93626E75D17576C5
+[2026-10-20 02:50:18.854] [info] [gpu] [t133624] Creating graphics pipeline state with VS A3B9ED5D5C87230E, PS 11824C2EC1B156C6
+[2026-10-20 02:50:18.854] [info] [gpu] [t133626] Creating graphics pipeline state with VS A3B9ED5D5C87230E, PS 26C4FD34AECBE4DE
+[2026-10-20 02:50:18.854] [info] [gpu] [t133624] Creating graphics pipeline state with VS A3B9ED5D5C87230E, PS 8418C40F121D7EA7
+[2026-10-20 02:50:18.854] [info] [gpu] [t133622] Creating graphics pipeline state with VS A3B9ED5D5C87230E, PS FCDF9BE8C57F7D01
+[2026-10-20 02:50:18.854] [info] [gpu] [t133626] Creating graphics pipeline state with VS A3B9ED5D5C87230E, PS 22DA22B5639EBAE4
+[2026-10-20 02:50:18.854] [info] [gpu] [t133622] Creating graphics pipeline state with VS 29EAD25B53F275EB, PS CF453BD52292E8E8
+[2026-10-20 02:50:18.854] [info] [gpu] [t133624] Creating graphics pipeline state with VS 3F2D18B20304B6FF, PS 10DB6ADE694E1A27
+[2026-10-20 02:50:18.854] [info] [gpu] [t133626] Creating graphics pipeline state with VS 88DF788D6FB82CC3
+[2026-10-20 02:50:18.854] [info] [gpu] [t133626] Creating graphics pipeline state with VS CCE7D53C54C31B07, PS CB357A0D68D92BAE
+[2026-10-20 02:50:18.854] [info] [gpu] [t133624] Creating graphics pipeline state with VS 1193B16753866698, PS F61E477F2E8626D3
+[2026-10-20 02:50:18.854] [info] [gpu] [t133623] Creating graphics pipeline state with VS 0DDD1E21D97B14B7
+[2026-10-20 02:50:18.854] [info] [gpu] [t133625] Creating graphics pipeline state with VS E5F010FF638DF3FD, PS E4924DD6AA56C87B
+[2026-10-20 02:50:18.854] [info] [gpu] [t133626] Creating graphics pipeline state with VS F144B94587B30A47
+[2026-10-20 02:50:18.854] [info] [gpu] [t133623] Creating graphics pipeline state with VS 3F2D18B20304B6FF, PS 2CF848DD943A46BD
+[2026-10-20 02:50:18.854] [info] [gpu] [t133624] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.854] [info] [gpu] [t133626] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.854] [info] [gpu] [t133624] Creating graphics pipeline state with VS 52CEF22978901994, PS 2B0EC8BF49B5B1B7
+[2026-10-20 02:50:18.854] [info] [gpu] [t133626] Creating graphics pipeline state with VS B9529C289D47353A, PS 2AC6CB03E52BC6DF
+[2026-10-20 02:50:18.854] [info] [gpu] [t133624] Creating graphics pipeline state with VS C1830DF50358E27D, PS 8D3600513A30FF1B
+[2026-10-20 02:50:18.854] [info] [gpu] [t133626] Creating graphics pipeline state with VS A13394C47C7210C6, PS 36926AECC5DD2AAA
+[2026-10-20 02:50:18.854] [info] [gpu] [t133626] Creating graphics pipeline state with VS C1830DF50358E27D, PS CCEB345C01A8DE30
+[2026-10-20 02:50:18.854] [info] [gpu] [t133621] Creating graphics pipeline state with VS F373232DFCBF4F3B, PS 791D73ECC9EA38A4
+[2026-10-20 02:50:18.854] [info] [gpu] [t133622] Creating graphics pipeline state with VS 5DB1ECF39EA11DB0, PS 26362C05278752A2
+[2026-10-20 02:50:18.854] [info] [gpu] [t133625] Creating graphics pipeline state with VS B646F85EF69A57E0
+[2026-10-20 02:50:18.854] [info] [gpu] [t133625] Creating graphics pipeline state with VS 80D7313ACE978EE9, PS 046AC0AFE996D2F8
+[2026-10-20 02:50:18.854] [info] [gpu] [t133625] Creating graphics pipeline state with VS 5080CCF856774FEF, PS 9D751CAD4C166981
+[2026-10-20 02:50:18.854] [info] [gpu] [t133626] Creating graphics pipeline state with VS 8EE16AB65DA59360, PS 5F42A000923D619B
+[2026-10-20 02:50:18.854] [info] [gpu] [t133624] Creating graphics pipeline state with VS A0C1044F0F76A203, PS AD38D0DA1BC0324A
+[2026-10-20 02:50:18.854] [info] [gpu] [t133623] Creating graphics pipeline state with VS 624073966B8FC398, PS D1E2D6181EE982F6
+[2026-10-20 02:50:18.854] [info] [gpu] [t133621] Creating graphics pipeline state with VS 00D88A3FCDB43F58, PS 2B83D3E3C1FCEE3C
+[2026-10-20 02:50:18.854] [info] [gpu] [t133622] Creating graphics pipeline state with VS 5080CCF856774FEF, PS D2C3E29FE2551C37
+[2026-10-20 02:50:18.854] [info] [gpu] [t133621] Creating graphics pipeline state with VS 0041ED33AC536E1F, PS 6157765597F0B322
+[2026-10-20 02:50:18.854] [info] [gpu] [t133621] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS 3F1B0DB28B94245F
+[2026-10-20 02:50:18.854] [info] [gpu] [t133621] Creating graphics pipeline state with VS 0041ED33AC536E1F, PS 6157765597F0B322
+[2026-10-20 02:50:18.854] [info] [gpu] [t133621] Creating graphics pipeline state with VS 80D7313ACE978EE9, PS 4E4466C44F279080
+[2026-10-20 02:50:18.854] [info] [gpu] [t133623] Creating graphics pipeline state with VS 42B1716CCE210E5B, PS 55EC613AB7C460CE
+[2026-10-20 02:50:18.855] [info] [gpu] [t133624] Creating graphics pipeline state with VS 40CA81B9A949AEE8, PS 63CB90E28DB69658
+[2026-10-20 02:50:18.855] [info] [gpu] [t133625] Creating graphics pipeline state with VS 5F19E63E81CE78EF, PS 63CB90E28DB69658
+[2026-10-20 02:50:18.855] [info] [gpu] [t133626] Creating graphics pipeline state with VS 751B406D89878482, PS 3E278E744C3801A2
+[2026-10-20 02:50:18.855] [info] [gpu] [t133624] Creating graphics pipeline state with VS 40CA81B9A949AEE8, PS 63CB90E28DB69658
+[2026-10-20 02:50:18.855] [info] [gpu] [t133623] Creating graphics pipeline state with VS B9DBF2B52536E0E5, PS 2CEE250FEDC661F4
+[2026-10-20 02:50:18.855] [info] [gpu] [t133621] Creating graphics pipeline state with VS B9DBF2B52536E0E5, PS 4FE345F87FBA7A7A
+[2026-10-20 02:50:18.855] [info] [gpu] [t133624] Creating graphics pipeline state with VS 7E7828260FADF8F4, PS 2B0EC8BF49B5B1B7
+[2026-10-20 02:50:18.855] [info] [gpu] [t133622] Creating graphics pipeline state with VS A13394C47C7210C6, PS 5A13CD604AE31DF6
+[2026-10-20 02:50:18.855] [info] [gpu] [t133626] Creating graphics pipeline state with VS B9DBF2B52536E0E5, PS 4FE345F87FBA7A7A
+[2026-10-20 02:50:18.855] [info] [gpu] [t133621] Creating graphics pipeline state with VS B9DBF2B52536E0E5, PS 2CEE250FEDC661F4
+[2026-10-20 02:50:18.855] [info] [gpu] [t133623] Creating graphics pipeline state with VS 9893A0C0CB53BEC5, PS 288E40EA1521AD3F
+[2026-10-20 02:50:18.855] [info] [gpu] [t133622] Creating graphics pipeline state with VS D87E322A0BE6EE91, PS 707F5EFBB06C442D
+[2026-10-20 02:50:18.855] [info] [gpu] [t133621] Creating graphics pipeline state with VS 043A088D3D7C3A5B, PS B275EAEEDEA3CAC6
+[2026-10-20 02:50:18.855] [info] [gpu] [t133624] Creating graphics pipeline state with VS D5E12A97B3A84881, PS 58CE51CE56247C16
+[2026-10-20 02:50:18.855] [info] [gpu] [t133623] Creating graphics pipeline state with VS 16F25D856B5CA825
+[2026-10-20 02:50:18.855] [info] [gpu] [t133624] Creating graphics pipeline state with VS 7A300F912C49F65B, PS 23244076046FFDA7
+[2026-10-20 02:50:18.855] [info] [gpu] [t133623] Creating graphics pipeline state with VS B6C9863F710683EC
+[2026-10-20 02:50:18.855] [info] [gpu] [t133621] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.855] [info] [gpu] [t133623] Creating graphics pipeline state with VS 09AA61127D193556, PS 097ED4713D4DF007
+[2026-10-20 02:50:18.855] [info] [gpu] [t133621] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.855] [info] [gpu] [t133621] Creating graphics pipeline state with VS F73DECA606D6342E, PS 15F185916C30B53E
+[2026-10-20 02:50:18.856] [info] [gpu] [t133624] Creating graphics pipeline state with VS C7D52884ECA9A039, PS AA8F5AF8EC84F637
+[2026-10-20 02:50:18.856] [info] [gpu] [t133625] Creating graphics pipeline state with VS 5F19E63E81CE78EF, PS 63CB90E28DB69658
+[2026-10-20 02:50:18.856] [info] [gpu] [t133625] Creating graphics pipeline state with VS 751B406D89878482, PS 3E278E744C3801A2
+[2026-10-20 02:50:18.856] [info] [gpu] [t133621] Creating graphics pipeline state with VS 38A010A4664B9FBE, PS 8B29880B24388924
+[2026-10-20 02:50:18.856] [info] [gpu] [t133623] Creating graphics pipeline state with VS 857592C05F0CF86C, PS AE05E925629FAD04
+[2026-10-20 02:50:18.856] [info] [gpu] [t133623] Creating graphics pipeline state with VS F73DECA606D6342E, PS 15F185916C30B53E
+[2026-10-20 02:50:18.856] [info] [gpu] [t133624] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.856] [info] [gpu] [t133623] Creating graphics pipeline state with VS 2B777A9252AA93CE
+[2026-10-20 02:50:18.856] [info] [gpu] [t133625] Creating graphics pipeline state with VS 3F2D18B20304B6FF, PS 10DB6ADE694E1A27
+[2026-10-20 02:50:18.856] [info] [gpu] [t133624] Creating graphics pipeline state with VS 6FF3234113FE8FE2, PS 8B29880B24388924
+[2026-10-20 02:50:18.856] [info] [gpu] [t133623] Creating graphics pipeline state with VS A13394C47C7210C6, PS BCE9B5D86566C8D0
+[2026-10-20 02:50:18.856] [info] [gpu] [t133623] Creating graphics pipeline state with VS 29EAD25B53F275EB, PS CF453BD52292E8E8
+[2026-10-20 02:50:18.856] [info] [gpu] [t133623] Creating graphics pipeline state with VS F0C36D4D3207745A, PS E384F09F49E2C544
+[2026-10-20 02:50:18.856] [info] [gpu] [t133625] Creating graphics pipeline state with VS 1A68D1B0EC50782A
+[2026-10-20 02:50:18.856] [info] [gpu] [t133621] Creating graphics pipeline state with VS B2E0B0EF744E750B
+[2026-10-20 02:50:18.856] [info] [gpu] [t133625] Creating graphics pipeline state with VS 980FD0C7E9A513E0, PS DC5DDFC4F2C0966F
+[2026-10-20 02:50:18.856] [info] [gpu] [t133623] Creating graphics pipeline state with VS 980FD0C7E9A513E0, PS DC5DDFC4F2C0966F
+[2026-10-20 02:50:18.856] [info] [gpu] [t133621] Creating graphics pipeline state with VS 80D7313ACE978EE9, PS 4E4466C44F279080
+[2026-10-20 02:50:18.856] [info] [gpu] [t133621] Creating graphics pipeline state with VS 239A3321341ABD32, PS 769E694163A8FA01
+[2026-10-20 02:50:18.856] [info] [gpu] [t133626] Creating graphics pipeline state with VS C1830DF50358E27D, PS 3C2EF05547A2FA57
+[2026-10-20 02:50:18.856] [info] [gpu] [t133623] Creating graphics pipeline state with VS 2C677A06ED34895F
+[2026-10-20 02:50:18.856] [info] [gpu] [t133621] Creating graphics pipeline state with VS 5393F9F8C1FA3E34, PS 288E40EA1521AD3F
+[2026-10-20 02:50:18.856] [info] [gpu] [t133622] Creating graphics pipeline state with VS 0EE8D4769BF95A92, PS 791D73ECC9EA38A4
+[2026-10-20 02:50:18.856] [info] [gpu] [t133626] Creating graphics pipeline state with VS 9BF2991815B941B9
+[2026-10-20 02:50:18.856] [info] [gpu] [t133626] Creating graphics pipeline state with VS B9DBF2B52536E0E5, PS 2CEE250FEDC661F4
+[2026-10-20 02:50:18.856] [info] [gpu] [t133626] Creating graphics pipeline state with VS F73DECA606D6342E, PS 15F185916C30B53E
+[2026-10-20 02:50:18.856] [info] [gpu] [t133626] Creating graphics pipeline state with VS F73DECA606D6342E, PS 15F185916C30B53E
+[2026-10-20 02:50:18.856] [info] [gpu] [t133623] Creating graphics pipeline state with VS 3F2D18B20304B6FF, PS 2CF848DD943A46BD
+[2026-10-20 02:50:18.856] [info] [gpu] [t133626] Creating graphics pipeline state with VS 7E7828260FADF8F4, PS 2B0EC8BF49B5B1B7
+[2026-10-20 02:50:18.856] [info] [gpu] [t133623] Creating graphics pipeline state with VS B9DBF2B52536E0E5, PS 4FE345F87FBA7A7A
+[2026-10-20 02:50:18.857] [info] [gpu] [t133626] Creating graphics pipeline state with VS B9DBF2B52536E0E5, PS 4FE345F87FBA7A7A
+[2026-10-20 02:50:18.857] [info] [gpu] [t133623] Creating graphics pipeline state with VS 3F2D18B20304B6FF, PS 10DB6ADE694E1A27
+[2026-10-20 02:50:18.857] [info] [gpu] [t133623] Creating graphics pipeline state with VS 2BC20E0D35A6C951, PS 15F185916C30B53E
+[2026-10-20 02:50:18.857] [info] [gpu] [t133626] Creating graphics pipeline state with VS 2BC20E0D35A6C951, PS 15F185916C30B53E
+[2026-10-20 02:50:18.857] [info] [gpu] [t133623] Creating graphics pipeline state with VS 42B1716CCE210E5B, PS 55EC613AB7C460CE
+[2026-10-20 02:50:18.857] [info] [gpu] [t133621] Creating graphics pipeline state with VS 40CA81B9A949AEE8, PS 63CB90E28DB69658
+[2026-10-20 02:50:18.857] [info] [gpu] [t133626] Creating graphics pipeline state with VS 40CA81B9A949AEE8, PS 63CB90E28DB69658
+[2026-10-20 02:50:18.857] [info] [gpu] [t133623] Creating graphics pipeline state with VS 162B49A2B1B4A79F, PS D8779AEA674A54B7
+[2026-10-20 02:50:18.857] [info] [gpu] [t133621] Creating graphics pipeline state with VS B6C9863F710683EC, PS A4A965C189287B99
+[2026-10-20 02:50:18.857] [info] [gpu] [t133626] Creating graphics pipeline state with VS 9BF2991815B941B9
+[2026-10-20 02:50:18.857] [info] [gpu] [t133623] Creating graphics pipeline state with VS 20A41D46F34D238E, PS C786F39CB12D40FE
+[2026-10-20 02:50:18.857] [info] [gpu] [t133621] Creating graphics pipeline state with VS FD64981C00DFD643, PS 18171502E7713810
+[2026-10-20 02:50:18.857] [info] [gpu] [t133626] Creating graphics pipeline state with VS 2143DB5C4E1DBD0A, PS ECC49AF04CE3F678
+[2026-10-20 02:50:18.857] [info] [gpu] [t133626] Creating graphics pipeline state with VS 3E98130260EEDEEA, PS 5F01A41A3D4BC23F
+[2026-10-20 02:50:18.857] [info] [gpu] [t133622] Creating graphics pipeline state with VS 956935A38084D1A8, PS 9A20F0519E2257A5
+[2026-10-20 02:50:18.857] [info] [gpu] [t133621] Creating graphics pipeline state with VS 5FAE7C889A40BD88, PS 80572A17D3D70AA2
+[2026-10-20 02:50:18.857] [info] [gpu] [t133626] Creating graphics pipeline state with VS EA96807C7E1E7397, PS A2BBB1DEEADAF9D6
+[2026-10-20 02:50:18.857] [info] [gpu] [t133621] Creating graphics pipeline state with VS F13CE222F5AD21EC, PS BC322446B68F981A
+[2026-10-20 02:50:18.857] [info] [gpu] [t133622] Creating graphics pipeline state with VS 8DE5FB41AAED74BB, PS 2FEBC1D51F41EB2B
+[2026-10-20 02:50:18.857] [info] [gpu] [t133624] Creating graphics pipeline state with VS 2E17F91A45F426FB, PS 8F478F2B65A2948E
+[2026-10-20 02:50:18.857] [info] [gpu] [t133623] Creating graphics pipeline state with VS 5653BF151C5B2D85, PS 8684DA46B90ADAB1
+[2026-10-20 02:50:18.857] [info] [gpu] [t133625] Creating graphics pipeline state with VS C9A0BEADC0AA8CD0, PS E39F2E402062D389
+[2026-10-20 02:50:18.857] [info] [gpu] [t133626] Creating graphics pipeline state with VS EA4C80AF2221BC69, PS 6638C29E1CA26BC8
+[2026-10-20 02:50:18.857] [info] [gpu] [t133623] Creating graphics pipeline state with VS ABA03BA543F3781C, PS 27C8D30DBDFA432A
+[2026-10-20 02:50:18.857] [info] [gpu] [t133624] Creating graphics pipeline state with VS 4F75CA9380703799, PS 118FA1124A2D5D55
+[2026-10-20 02:50:18.857] [info] [gpu] [t133622] Creating graphics pipeline state with VS 8C20480E90B8FB47, PS 751B958B3756DC1B
+[2026-10-20 02:50:18.857] [info] [gpu] [t133621] Creating graphics pipeline state with VS FF3AF241147AF81B, PS 8D6CA923F954AF0B
+[2026-10-20 02:50:18.857] [info] [gpu] [t133625] Creating graphics pipeline state with VS CB655AABEBC61162, PS BDBE9760FC086C7D
+[2026-10-20 02:50:18.858] [info] [gpu] [t133623] Creating graphics pipeline state with VS 345F2FC968E0C538, PS E1943B7D9CCA79C2
+[2026-10-20 02:50:18.858] [info] [gpu] [t133626] Creating graphics pipeline state with VS 4A1AE6E75D7B5250, PS A761CB608F4F5AFA
+[2026-10-20 02:50:18.858] [info] [gpu] [t133624] Creating graphics pipeline state with VS 80978EAC8CDA11AE, PS 2C8B0B8527027237
+[2026-10-20 02:50:18.858] [info] [gpu] [t133622] Creating graphics pipeline state with VS BA27AEE404D5EF72, PS 74A4E9A56FF5D30D
+[2026-10-20 02:50:18.858] [info] [gpu] [t133623] Creating graphics pipeline state with VS 05AAAAEE7E974BD3, PS 9A641C112C1C8D12
+[2026-10-20 02:50:18.858] [info] [gpu] [t133623] Creating graphics pipeline state with VS 101A0A95F38E2E7E, PS EFEEBE6EB0F49134
+[2026-10-20 02:50:18.858] [info] [gpu] [t133621] Creating graphics pipeline state with VS CE2B022E5DFE2B02, PS 8FD2D632DD925BAA
+[2026-10-20 02:50:18.858] [info] [gpu] [t133624] Creating graphics pipeline state with VS 38F1042111A1AA61, PS EE90221FBE6C8965
+[2026-10-20 02:50:18.858] [info] [gpu] [t133621] Creating graphics pipeline state with VS 76F11B65473AC06B, PS 3CE133E41F25F8F4
+[2026-10-20 02:50:18.858] [info] [gpu] [t133626] Creating graphics pipeline state with VS 4B6116A70F17E1C3, PS 89BD0657FA648E59
+[2026-10-20 02:50:18.858] [info] [gpu] [t133623] Creating graphics pipeline state with VS 3DA6040DE9583AFA, PS 981FEDA45DA3226B
+[2026-10-20 02:50:18.858] [info] [gpu] [t133621] Creating graphics pipeline state with VS EF063B20A9A287F7, PS B2CD76450FD63772
+[2026-10-20 02:50:18.858] [info] [gpu] [t133623] Creating graphics pipeline state with VS 80C3C3D20F5F085D, PS 6A8EB1B553DA7639
+[2026-10-20 02:50:18.858] [info] [gpu] [t133622] Creating graphics pipeline state with VS D0B24A9D2630A311, PS 94C908E462E5FBB9
+[2026-10-20 02:50:18.858] [info] [gpu] [t133624] Creating graphics pipeline state with VS 756E29B943E75094, PS E71047D1212C45C9
+[2026-10-20 02:50:18.858] [info] [gpu] [t133624] Creating graphics pipeline state with VS B2B05376CA0C3648, PS 7B0D512B87469845
+[2026-10-20 02:50:18.859] [info] [gpu] [t133621] Creating graphics pipeline state with VS 0AC9D9F13A1A9ED7, PS DB9E1BA8F8610DE3
+[2026-10-20 02:50:18.859] [info] [gpu] [t133626] Creating graphics pipeline state with VS B58ADE69B948E0E4, PS 148631816B2EB3D0
+[2026-10-20 02:50:18.859] [info] [gpu] [t133625] Creating graphics pipeline state with VS A54A5664B2414EFE, PS CB32E4A12A8E0EEF
+[2026-10-20 02:50:18.859] [info] [gpu] [t133622] Creating graphics pipeline state with VS 0F55FA96F8DA1859, PS C224C6A9208ED691
+[2026-10-20 02:50:18.859] [info] [gpu] [t133626] Creating graphics pipeline state with VS 9882D967791C6D29, PS CB48D20B7CDC35DF
+[2026-10-20 02:50:18.859] [info] [gpu] [t133624] Creating graphics pipeline state with VS F3A761CDF2F0CC10, PS 30C695B16C96D805
+[2026-10-20 02:50:18.859] [info] [gpu] [t133621] Creating graphics pipeline state with VS 233D9B977D0C258C, PS 0FA0807402567E58
+[2026-10-20 02:50:18.859] [info] [gpu] [t133625] Creating graphics pipeline state with VS 406DDDDDBB67C4AD, PS 9EE1CE1558F6F9AC
+[2026-10-20 02:50:18.859] [info] [gpu] [t133625] Creating graphics pipeline state with VS E985476FCB248C9C, PS 7B85F6B06DF38C53
+[2026-10-20 02:50:18.859] [info] [gpu] [t133626] Creating graphics pipeline state with VS 1B813CAA55F1B764, PS DBE0232821D1921D
+[2026-10-20 02:50:18.859] [info] [gpu] [t133624] Creating graphics pipeline state with VS 020DC4548827B555, PS A119001B3F7B8A0E
+[2026-10-20 02:50:18.859] [info] [gpu] [t133621] Creating graphics pipeline state with VS 1EF9C512D9FE38DA, PS D561712FC5CF6AA6
+[2026-10-20 02:50:18.859] [info] [gpu] [t133626] Creating graphics pipeline state with VS A1E951145FC1C92C, PS 4DA2BAD0963BC6E7
+[2026-10-20 02:50:18.859] [info] [gpu] [t133621] Creating graphics pipeline state with VS 6683AA1E24611CA8, PS AD35DE271CBAAE57
+[2026-10-20 02:50:18.859] [info] [gpu] [t133625] Creating graphics pipeline state with VS E4D0E2778087BA47, PS 454F5825DA2F242F
+[2026-10-20 02:50:18.859] [info] [gpu] [t133623] Creating graphics pipeline state with VS CA829F9323DF2ACB, PS 9931EA5B175A71B6
+[2026-10-20 02:50:18.860] [info] [gpu] [t133621] Creating graphics pipeline state with VS E2FC1E43A4FAAF48, PS FEF08A8FCA38A85F
+[2026-10-20 02:50:18.860] [info] [gpu] [t133624] Creating graphics pipeline state with VS 1048C7E57617C38F, PS 0D41F745D0A01E52
+[2026-10-20 02:50:18.860] [info] [gpu] [t133621] Creating graphics pipeline state with VS AEF906ADED1AB910, PS 81DA2268522B0C40
+[2026-10-20 02:50:18.860] [info] [gpu] [t133626] Creating graphics pipeline state with VS F8FC3BA24DCA90F4, PS F1898AD72C1A0535
+[2026-10-20 02:50:18.860] [info] [gpu] [t133626] Creating graphics pipeline state with VS 3B515B39724FC98C, PS 9A57208BF4A35086
+[2026-10-20 02:50:18.860] [info] [gpu] [t133623] Creating graphics pipeline state with VS 74E7092F33D790BF, PS D149F235D130456E
+[2026-10-20 02:50:18.860] [info] [gpu] [t133625] Creating graphics pipeline state with VS FF30D2DF5361D90F, PS 4C2F3C808E963998
+[2026-10-20 02:50:18.860] [info] [gpu] [t133624] Creating graphics pipeline state with VS 9A173BD0DF9F3DA0, PS B769BCBB7BBE7B41
+[2026-10-20 02:50:18.860] [info] [gpu] [t133622] Creating graphics pipeline state with VS E0E95C5BBB828D6D, PS 7541A3B222FC0681
+[2026-10-20 02:50:18.860] [info] [gpu] [t133621] Creating graphics pipeline state with VS 5B8551CA24966F8B, PS 2A1FC230B820057B
+[2026-10-20 02:50:18.860] [info] [gpu] [t133622] Creating graphics pipeline state with VS CEA6CF72997646F5, PS 5176B7D7DD08FA69
+[2026-10-20 02:50:18.860] [info] [gpu] [t133626] Creating graphics pipeline state with VS 8482F3F595851E93, PS 21F1CE783B3ED536
+[2026-10-20 02:50:18.860] [info] [gpu] [t133621] Creating graphics pipeline state with VS CDAA87055EB16CC3, PS 2FABE5E05321334F
+[2026-10-20 02:50:18.860] [info] [gpu] [t133626] Creating graphics pipeline state with VS 9B5EE39E84345522, PS 8CDF6BDE45CB52DD
+[2026-10-20 02:50:18.860] [info] [gpu] [t133626] Creating graphics pipeline state with VS FE9B6B1D03090BE4, PS 7EC52B1CDEEB0CB0
+[2026-10-20 02:50:18.860] [info] [gpu] [t133623] Creating graphics pipeline state with VS 613D1B608E29EA3E, PS A7787BF61FFDED90
+[2026-10-20 02:50:18.860] [info] [gpu] [t133621] Creating graphics pipeline state with VS 2F1329529A248598, PS D88D98820287D941
+[2026-10-20 02:50:18.860] [info] [gpu] [t133626] Creating graphics pipeline state with VS 3D603163C0B75BE0, PS B8529B70098844C9
+[2026-10-20 02:50:18.860] [info] [gpu] [t133621] Creating graphics pipeline state with VS F0338BD1F0CBA9EA, PS D0318B7B664E562E
+[2026-10-20 02:50:18.861] [info] [gpu] [t133623] Creating graphics pipeline state with VS F0338BD1F0CBA9EA, PS D0318B7B664E562E
+[2026-10-20 02:50:18.861] [info] [gpu] [t133621] Creating graphics pipeline state with VS 047C2616CD7BC44A, PS EEFBE8358A458F06
+[2026-10-20 02:50:18.861] [info] [gpu] [t133625] Creating graphics pipeline state with VS 047C2616CD7BC44A, PS EEFBE8358A458F06
+[2026-10-20 02:50:18.861] [info] [gpu] [t133621] Creating graphics pipeline state with VS BB783AF798C0336A, PS 10CFDF397ECD7AFE
+[2026-10-20 02:50:18.861] [info] [gpu] [t133621] Creating graphics pipeline state with VS BB783AF798C0336A, PS 10CFDF397ECD7AFE
+[2026-10-20 02:50:18.861] [info] [gpu] [t133621] Creating graphics pipeline state with VS 9210D65A002FD4C7, PS 7739FDCF55F4ED36
+[2026-10-20 02:50:18.861] [info] [gpu] [t133621] Creating graphics pipeline state with VS 9210D65A002FD4C7, PS 7739FDCF55F4ED36
+[2026-10-20 02:50:18.861] [info] [gpu] [t133621] Creating graphics pipeline state with VS 94E8DF7B87B1947C, PS 852C3D7E392CAA98
+[2026-10-20 02:50:18.861] [info] [gpu] [t133622] Creating graphics pipeline state with VS 2C53E1A563484076, PS 3FCB0326E1A7E6E8
+[2026-10-20 02:50:18.861] [info] [gpu] [t133624] Creating graphics pipeline state with VS 2C53E1A563484076, PS F757969C048876FB
+[2026-10-20 02:50:18.861] [info] [gpu] [t133622] Creating graphics pipeline state with VS B6C9863F710683EC
+[2026-10-20 02:50:18.861] [info] [gpu] [t133622] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.861] [info] [gpu] [t133622] Creating graphics pipeline state with VS A13394C47C7210C6, PS AF13344FD730BDAE
+[2026-10-20 02:50:18.861] [info] [gpu] [t133621] Creating graphics pipeline state with VS 80D7313ACE978EE9, PS 046AC0AFE996D2F8
+[2026-10-20 02:50:18.861] [info] [gpu] [t133624] Creating graphics pipeline state with VS 80D7313ACE978EE9, PS 57FDC22716AF0A43
+[2026-10-20 02:50:18.861] [info] [gpu] [t133626] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS 76A66ADA9D944BD3
+[2026-10-20 02:50:18.861] [info] [gpu] [t133621] Creating graphics pipeline state with VS 2B2187189DFBFB10, PS BF56A9A2C7604E4C
+[2026-10-20 02:50:18.862] [info] [gpu] [t133624] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.862] [info] [gpu] [t133624] Creating graphics pipeline state with VS 751B406D89878482, PS 3E278E744C3801A2
+[2026-10-20 02:50:18.862] [info] [gpu] [t133623] Creating graphics pipeline state with VS BF5DFCFCF77AD4F8, PS C8EFECA098455DD7
+[2026-10-20 02:50:18.862] [info] [gpu] [t133624] Creating graphics pipeline state with VS 162B49A2B1B4A79F, PS D8779AEA674A54B7
+[2026-10-20 02:50:18.862] [info] [gpu] [t133626] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.862] [info] [gpu] [t133622] Creating graphics pipeline state with VS 751B406D89878482, PS 3E278E744C3801A2
+[2026-10-20 02:50:18.862] [info] [gpu] [t133626] Creating graphics pipeline state with VS A2FC50159EB69BA2, PS 618DD627F3D3B9A4
+[2026-10-20 02:50:18.862] [info] [gpu] [t133622] Creating graphics pipeline state with VS 5FAE7C889A40BD88, PS 80572A17D3D70AA2
+[2026-10-20 02:50:18.862] [info] [gpu] [t133621] Creating graphics pipeline state with VS EA96807C7E1E7397, PS A2BBB1DEEADAF9D6
+[2026-10-20 02:50:18.862] [info] [gpu] [t133626] Creating graphics pipeline state with VS F13CE222F5AD21EC, PS BC322446B68F981A
+[2026-10-20 02:50:18.862] [info] [gpu] [t133622] Creating graphics pipeline state with VS 8DE5FB41AAED74BB, PS 2FEBC1D51F41EB2B
+[2026-10-20 02:50:18.862] [info] [gpu] [t133624] Creating graphics pipeline state with VS 2E17F91A45F426FB, PS 8F478F2B65A2948E
+[2026-10-20 02:50:18.862] [info] [gpu] [t133625] Creating graphics pipeline state with VS 5653BF151C5B2D85, PS 8684DA46B90ADAB1
+[2026-10-20 02:50:18.862] [info] [gpu] [t133621] Creating graphics pipeline state with VS C9A0BEADC0AA8CD0, PS E39F2E402062D389
+[2026-10-20 02:50:18.862] [info] [gpu] [t133621] Creating graphics pipeline state with VS EA4C80AF2221BC69, PS 6638C29E1CA26BC8
+[2026-10-20 02:50:18.862] [info] [gpu] [t133622] Creating graphics pipeline state with VS ABA03BA543F3781C, PS 27C8D30DBDFA432A
+[2026-10-20 02:50:18.862] [info] [gpu] [t133626] Creating graphics pipeline state with VS 4F75CA9380703799, PS 118FA1124A2D5D55
+[2026-10-20 02:50:18.862] [info] [gpu] [t133624] Creating graphics pipeline state with VS 8C20480E90B8FB47, PS 751B958B3756DC1B
+[2026-10-20 02:50:18.862] [info] [gpu] [t133623] Creating graphics pipeline state with VS FF3AF241147AF81B, PS 8D6CA923F954AF0B
+[2026-10-20 02:50:18.862] [info] [gpu] [t133625] Creating graphics pipeline state with VS CB655AABEBC61162, PS BDBE9760FC086C7D
+[2026-10-20 02:50:18.862] [info] [gpu] [t133621] Creating graphics pipeline state with VS 345F2FC968E0C538, PS E1943B7D9CCA79C2
+[2026-10-20 02:50:18.862] [info] [gpu] [t133622] Creating graphics pipeline state with VS 4A1AE6E75D7B5250, PS A761CB608F4F5AFA
+[2026-10-20 02:50:18.862] [info] [gpu] [t133626] Creating graphics pipeline state with VS 80978EAC8CDA11AE, PS 2C8B0B8527027237
+[2026-10-20 02:50:18.862] [info] [gpu] [t133621] Creating graphics pipeline state with VS BA27AEE404D5EF72, PS 74A4E9A56FF5D30D
+[2026-10-20 02:50:18.862] [info] [gpu] [t133624] Creating graphics pipeline state with VS 05AAAAEE7E974BD3, PS 9A641C112C1C8D12
+[2026-10-20 02:50:18.862] [info] [gpu] [t133624] Creating graphics pipeline state with VS 101A0A95F38E2E7E, PS EFEEBE6EB0F49134
+[2026-10-20 02:50:18.862] [info] [gpu] [t133622] Creating graphics pipeline state with VS CE2B022E5DFE2B02, PS 8FD2D632DD925BAA
+[2026-10-20 02:50:18.862] [info] [gpu] [t133623] Creating graphics pipeline state with VS 38F1042111A1AA61, PS EE90221FBE6C8965
+[2026-10-20 02:50:18.862] [info] [gpu] [t133622] Creating graphics pipeline state with VS 76F11B65473AC06B, PS 3CE133E41F25F8F4
+[2026-10-20 02:50:18.862] [info] [gpu] [t133626] Creating graphics pipeline state with VS 4B6116A70F17E1C3, PS 89BD0657FA648E59
+[2026-10-20 02:50:18.863] [info] [gpu] [t133621] Creating graphics pipeline state with VS 3DA6040DE9583AFA, PS 981FEDA45DA3226B
+[2026-10-20 02:50:18.863] [info] [gpu] [t133623] Creating graphics pipeline state with VS EF063B20A9A287F7, PS B2CD76450FD63772
+[2026-10-20 02:50:18.863] [info] [gpu] [t133621] Creating graphics pipeline state with VS 80C3C3D20F5F085D, PS 6A8EB1B553DA7639
+[2026-10-20 02:50:18.863] [info] [gpu] [t133624] Creating graphics pipeline state with VS D0B24A9D2630A311, PS 94C908E462E5FBB9
+[2026-10-20 02:50:18.863] [info] [gpu] [t133626] Creating graphics pipeline state with VS 756E29B943E75094, PS E71047D1212C45C9
+[2026-10-20 02:50:18.863] [info] [gpu] [t133626] Creating graphics pipeline state with VS B2B05376CA0C3648, PS 7B0D512B87469845
+[2026-10-20 02:50:18.863] [info] [gpu] [t133622] Creating graphics pipeline state with VS 0AC9D9F13A1A9ED7, PS DB9E1BA8F8610DE3
+[2026-10-20 02:50:18.863] [info] [gpu] [t133623] Creating graphics pipeline state with VS B58ADE69B948E0E4, PS 148631816B2EB3D0
+[2026-10-20 02:50:18.863] [info] [gpu] [t133622] Creating graphics pipeline state with VS A54A5664B2414EFE, PS CB32E4A12A8E0EEF
+[2026-10-20 02:50:18.863] [info] [gpu] [t133626] Creating graphics pipeline state with VS 0F55FA96F8DA1859, PS C224C6A9208ED691
+[2026-10-20 02:50:18.863] [info] [gpu] [t133624] Creating graphics pipeline state with VS 9882D967791C6D29, PS CB48D20B7CDC35DF
+[2026-10-20 02:50:18.863] [info] [gpu] [t133623] Creating graphics pipeline state with VS F3A761CDF2F0CC10, PS 30C695B16C96D805
+[2026-10-20 02:50:18.863] [info] [gpu] [t133622] Creating graphics pipeline state with VS 233D9B977D0C258C, PS 0FA0807402567E58
+[2026-10-20 02:50:18.863] [info] [gpu] [t133624] Creating graphics pipeline state with VS 406DDDDDBB67C4AD, PS 9EE1CE1558F6F9AC
+[2026-10-20 02:50:18.863] [info] [gpu] [t133624] Creating graphics pipeline state with VS E985476FCB248C9C, PS 7B85F6B06DF38C53
+[2026-10-20 02:50:18.863] [info] [gpu] [t133623] Creating graphics pipeline state with VS 1B813CAA55F1B764, PS DBE0232821D1921D
+[2026-10-20 02:50:18.863] [info] [gpu] [t133625] Creating graphics pipeline state with VS 020DC4548827B555, PS A119001B3F7B8A0E
+[2026-10-20 02:50:18.863] [info] [gpu] [t133622] Creating graphics pipeline state with VS 1EF9C512D9FE38DA, PS D561712FC5CF6AA6
+[2026-10-20 02:50:18.863] [info] [gpu] [t133622] Creating graphics pipeline state with VS A1E951145FC1C92C, PS 4DA2BAD0963BC6E7
+[2026-10-20 02:50:18.863] [info] [gpu] [t133624] Creating graphics pipeline state with VS 6683AA1E24611CA8, PS AD35DE271CBAAE57
+[2026-10-20 02:50:18.863] [info] [gpu] [t133623] Creating graphics pipeline state with VS CA829F9323DF2ACB, PS 9931EA5B175A71B6
+[2026-10-20 02:50:18.863] [info] [gpu] [t133625] Creating graphics pipeline state with VS E4D0E2778087BA47, PS 454F5825DA2F242F
+[2026-10-20 02:50:18.863] [info] [gpu] [t133624] Creating graphics pipeline state with VS E2FC1E43A4FAAF48, PS FEF08A8FCA38A85F
+[2026-10-20 02:50:18.863] [info] [gpu] [t133624] Creating graphics pipeline state with VS 1048C7E57617C38F, PS 0D41F745D0A01E52
+[2026-10-20 02:50:18.863] [info] [gpu] [t133625] Creating graphics pipeline state with VS AEF906ADED1AB910, PS 81DA2268522B0C40
+[2026-10-20 02:50:18.863] [info] [gpu] [t133623] Creating graphics pipeline state with VS F8FC3BA24DCA90F4, PS F1898AD72C1A0535
+[2026-10-20 02:50:18.863] [info] [gpu] [t133623] Creating graphics pipeline state with VS 3B515B39724FC98C, PS 9A57208BF4A35086
+[2026-10-20 02:50:18.864] [info] [gpu] [t133622] Creating graphics pipeline state with VS 74E7092F33D790BF, PS D149F235D130456E
+[2026-10-20 02:50:18.864] [info] [gpu] [t133624] Creating graphics pipeline state with VS FF30D2DF5361D90F, PS 4C2F3C808E963998
+[2026-10-20 02:50:18.864] [info] [gpu] [t133621] Creating graphics pipeline state with VS 9A173BD0DF9F3DA0, PS B769BCBB7BBE7B41
+[2026-10-20 02:50:18.864] [info] [gpu] [t133625] Creating graphics pipeline state with VS E0E95C5BBB828D6D, PS 7541A3B222FC0681
+[2026-10-20 02:50:18.864] [info] [gpu] [t133625] Creating graphics pipeline state with VS 5B8551CA24966F8B, PS 2A1FC230B820057B
+[2026-10-20 02:50:18.864] [info] [gpu] [t133623] Creating graphics pipeline state with VS CEA6CF72997646F5, PS 5176B7D7DD08FA69
+[2026-10-20 02:50:18.864] [info] [gpu] [t133622] Creating graphics pipeline state with VS 8482F3F595851E93, PS 21F1CE783B3ED536
+[2026-10-20 02:50:18.864] [info] [gpu] [t133625] Creating graphics pipeline state with VS CDAA87055EB16CC3, PS 2FABE5E05321334F
+[2026-10-20 02:50:18.864] [info] [gpu] [t133621] Creating graphics pipeline state with VS 6468E7FEC2CBA0CE
+[2026-10-20 02:50:18.864] [info] [gpu] [t133623] Creating graphics pipeline state with VS 6468E7FEC2CBA0CE
+[2026-10-20 02:50:18.864] [info] [gpu] [t133621] Creating graphics pipeline state with VS 9B5EE39E84345522, PS 8CDF6BDE45CB52DD
+[2026-10-20 02:50:18.864] [info] [gpu] [t133622] Creating graphics pipeline state with VS FE9B6B1D03090BE4, PS 7EC52B1CDEEB0CB0
+[2026-10-20 02:50:18.864] [info] [gpu] [t133623] Creating graphics pipeline state with VS 613D1B608E29EA3E, PS A7787BF61FFDED90
+[2026-10-20 02:50:18.864] [info] [gpu] [t133621] Creating graphics pipeline state with VS 2F1329529A248598, PS D88D98820287D941
+[2026-10-20 02:50:18.864] [info] [gpu] [t133626] Creating graphics pipeline state with VS 3D603163C0B75BE0, PS B8529B70098844C9
+[2026-10-20 02:50:18.864] [info] [gpu] [t133625] Creating graphics pipeline state with VS F0338BD1F0CBA9EA, PS D0318B7B664E562E
+[2026-10-20 02:50:18.864] [info] [gpu] [t133622] Creating graphics pipeline state with VS 9210D65A002FD4C7, PS 7739FDCF55F4ED36
+[2026-10-20 02:50:18.864] [info] [gpu] [t133621] Creating graphics pipeline state with VS 9210D65A002FD4C7, PS 7739FDCF55F4ED36
+[2026-10-20 02:50:18.864] [info] [gpu] [t133623] Creating graphics pipeline state with VS BB783AF798C0336A, PS 10CFDF397ECD7AFE
+[2026-10-20 02:50:18.864] [info] [gpu] [t133625] Creating graphics pipeline state with VS BB783AF798C0336A, PS 10CFDF397ECD7AFE
+[2026-10-20 02:50:18.864] [info] [gpu] [t133625] Creating graphics pipeline state with VS 047C2616CD7BC44A, PS EEFBE8358A458F06
+[2026-10-20 02:50:18.864] [info] [gpu] [t133625] Creating graphics pipeline state with VS 047C2616CD7BC44A, PS EEFBE8358A458F06
+[2026-10-20 02:50:18.864] [info] [gpu] [t133625] Creating graphics pipeline state with VS F0338BD1F0CBA9EA, PS D0318B7B664E562E
+[2026-10-20 02:50:18.864] [info] [gpu] [t133625] Creating graphics pipeline state with VS 94E8DF7B87B1947C, PS 852C3D7E392CAA98
+[2026-10-20 02:50:18.864] [info] [gpu] [t133625] Creating graphics pipeline state with VS F55A384967692C32, PS EBB6170584EEDFDA
+[2026-10-20 02:50:18.865] [info] [gpu] [t133624] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.865] [info] [gpu] [t133625] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.865] [info] [gpu] [t133625] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.865] [info] [gpu] [t133624] Creating graphics pipeline state with VS 34BA51B282130FF0, PS 7D5784B818252517
+[2026-10-20 02:50:18.865] [info] [gpu] [t133625] Creating graphics pipeline state with VS C5EEE590FAAA8BCD, PS 6D4FEF585DADDBD7
+[2026-10-20 02:50:18.865] [info] [gpu] [t133624] Creating graphics pipeline state with VS 8EE16AB65DA59360, PS 5970719719C94E3B
+[2026-10-20 02:50:18.865] [info] [gpu] [t133625] Creating graphics pipeline state with VS A330F46F46ED0C27, PS EECAEE5D2C184BE4
+[2026-10-20 02:50:18.865] [info] [gpu] [t133625] Creating graphics pipeline state with VS A028D0736B8F5A6C, PS 21C38F5980F7D310
+[2026-10-20 02:50:18.865] [info] [gpu] [t133626] Creating graphics pipeline state with VS 9F7ED7BFAB1F03F5, PS 4B4FE916257D6DB5
+[2026-10-20 02:50:18.865] [info] [gpu] [t133625] Creating graphics pipeline state with VS 01707C223DE0A700, PS 4A4F6F8546DD33F9
+[2026-10-20 02:50:18.865] [info] [gpu] [t133626] Creating graphics pipeline state with VS 37C32EA2AB5624D8, PS 04ADEB44ED2CE173
+[2026-10-20 02:50:18.865] [info] [gpu] [t133622] Creating graphics pipeline state with VS 8DC9CAD0B9A71F66, PS E35E755690C90B37
+[2026-10-20 02:50:18.865] [info] [gpu] [t133626] Creating graphics pipeline state with VS 088F1C7263B0B56D, PS E9C0EBF16DF28008
+[2026-10-20 02:50:18.865] [info] [gpu] [t133626] Creating graphics pipeline state with VS F0C36D4D3207745A, PS E384F09F49E2C544
+[2026-10-20 02:50:18.865] [info] [gpu] [t133621] Creating graphics pipeline state with VS 8DADB71D3B4A18AE
+[2026-10-20 02:50:18.865] [info] [gpu] [t133624] Creating graphics pipeline state with VS AD0F41B7927DF4CF
+[2026-10-20 02:50:18.865] [info] [gpu] [t133623] Creating graphics pipeline state with VS E3F8658F687EE775, PS 21EE21D3A210D594
+[2026-10-20 02:50:18.865] [info] [gpu] [t133626] Creating graphics pipeline state with VS 8DADB71D3B4A18AE
+[2026-10-20 02:50:18.865] [info] [gpu] [t133621] Creating graphics pipeline state with VS E3F8658F687EE775, PS 21EE21D3A210D594
+[2026-10-20 02:50:18.865] [info] [gpu] [t133624] Creating graphics pipeline state with VS AD0F41B7927DF4CF
+[2026-10-20 02:50:18.865] [info] [gpu] [t133625] Creating graphics pipeline state with VS 0D0277D1ED439897, PS 2DCDA85FCD6F5AD0
+[2026-10-20 02:50:18.865] [info] [gpu] [t133622] Creating graphics pipeline state with VS 0D0277D1ED439897, PS C0BDA0B601ED8D08
+[2026-10-20 02:50:18.865] [info] [gpu] [t133624] Creating graphics pipeline state with VS 32E870DD8BC5E32A, PS 4AFDC856F96502DC
+[2026-10-20 02:50:18.865] [info] [gpu] [t133623] Creating graphics pipeline state with VS 6A54D87BFADE7F57, PS C0BDA0B601ED8D08
+[2026-10-20 02:50:18.866] [info] [gpu] [t133623] Creating graphics pipeline state with VS 2B777A9252AA93CE
+[2026-10-20 02:50:18.866] [info] [gpu] [t133623] Creating graphics pipeline state with VS C8C39E5AE1B08DE6
+[2026-10-20 02:50:18.866] [info] [gpu] [t133623] Creating graphics pipeline state with VS 86956C7CDFE6C1FA, PS 6601C0C84732F3E8
+[2026-10-20 02:50:18.866] [info] [gpu] [t133622] Creating graphics pipeline state with VS 86956C7CDFE6C1FA, PS 6601C0C84732F3E8
+[2026-10-20 02:50:18.866] [info] [gpu] [t133624] Creating graphics pipeline state with VS 980FD0C7E9A513E0, PS 03AC441C290CF86F
+[2026-10-20 02:50:18.866] [info] [gpu] [t133623] Creating graphics pipeline state with VS 117136BEBB488E8E, PS 791D73ECC9EA38A4
+[2026-10-20 02:50:18.866] [info] [gpu] [t133623] Creating graphics pipeline state with VS 043A088D3D7C3A5B, PS B275EAEEDEA3CAC6
+[2026-10-20 02:50:18.866] [info] [gpu] [t133623] Creating graphics pipeline state with VS C1830DF50358E27D, PS 8DF43F55BA41DB44
+[2026-10-20 02:50:18.866] [info] [gpu] [t133623] Creating graphics pipeline state with VS 5E69194D72E68310, PS A39E23E2FD1F8A8B
+[2026-10-20 02:50:18.866] [info] [gpu] [t133623] Creating graphics pipeline state with VS 79034645B1CB882B, PS CAE1DB68AFFA9D3C
+[2026-10-20 02:50:18.866] [info] [gpu] [t133623] Creating graphics pipeline state with VS ED90DA6EFF5C6BCA, PS 757012AFFC13CB2A
+[2026-10-20 02:50:18.866] [info] [gpu] [t133623] Creating graphics pipeline state with VS 6CB0DC8516FE9906, PS 7654536C6811983B
+[2026-10-20 02:50:18.866] [info] [gpu] [t133624] Creating graphics pipeline state with VS D5960C68AFB971E4, PS DC8E213DD937C8D9
+[2026-10-20 02:50:18.866] [info] [gpu] [t133623] Creating graphics pipeline state with VS C1830DF50358E27D, PS 18516830AF8E631E
+[2026-10-20 02:50:18.866] [info] [gpu] [t133623] Creating graphics pipeline state with VS D0C40C04F166092E
+[2026-10-20 02:50:18.866] [info] [gpu] [t133623] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS 5C49BA34467BBE46
+[2026-10-20 02:50:18.866] [info] [gpu] [t133623] Creating graphics pipeline state with VS 6740F301934D53D4, PS 8704C9E316E8A31F
+[2026-10-20 02:50:18.866] [info] [gpu] [t133624] Creating graphics pipeline state with VS 6740F301934D53D4, PS 8704C9E316E8A31F
+[2026-10-20 02:50:18.866] [info] [gpu] [t133626] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS 057AB04425EAA675
+[2026-10-20 02:50:18.866] [info] [gpu] [t133621] Creating graphics pipeline state with VS 8EE16AB65DA59360, PS D8C6E7171DEDFB18
+[2026-10-20 02:50:18.866] [info] [gpu] [t133623] Creating graphics pipeline state with VS 1E6883FCCDE1F688, PS A4A965C189287B99
+[2026-10-20 02:50:18.866] [info] [gpu] [t133623] Creating graphics pipeline state with VS 82281A5FB565D5C3, PS 66A4BC137EAE22CB
+[2026-10-20 02:50:18.866] [info] [gpu] [t133624] Creating graphics pipeline state with VS 11B4EA725E2D82EC, PS 8035B4CE58223601
+[2026-10-20 02:50:18.866] [info] [gpu] [t133626] Creating graphics pipeline state with VS C439C986F0046385, PS 82DA6B67D961D999
+[2026-10-20 02:50:18.866] [info] [gpu] [t133625] Creating graphics pipeline state with VS D2D7ED15C3169CE9, PS A0767D6689DA2AE3
+[2026-10-20 02:50:18.867] [info] [gpu] [t133624] Creating graphics pipeline state with VS 5C1400BA97BE035C, PS 51552FC80F537D45
+[2026-10-20 02:50:18.867] [info] [gpu] [t133621] Creating graphics pipeline state with VS 490E79E8E4EA2DBB, PS B8DBAC380D8A58B8
+[2026-10-20 02:50:18.867] [info] [gpu] [t133623] Creating graphics pipeline state with VS D903C6EE19FAFA4A, PS 0C403FDFFAD32EBC
+[2026-10-20 02:50:18.867] [info] [gpu] [t133626] Creating graphics pipeline state with VS 29DFC07ED7DD16F3, PS 147BBECA1BB6232E
+[2026-10-20 02:50:18.867] [info] [gpu] [t133621] Creating graphics pipeline state with VS A3E0EB209F06AB52, PS 2E6E54240D351986
+[2026-10-20 02:50:18.867] [info] [gpu] [t133625] Creating graphics pipeline state with VS 990964888F7A3ABB, PS C5384BF908794DFD
+[2026-10-20 02:50:18.867] [info] [gpu] [t133622] Creating graphics pipeline state with VS 1FD435EB47E22E95, PS 6046D443ACD60E14
+[2026-10-20 02:50:18.867] [info] [gpu] [t133621] Creating graphics pipeline state with VS 8E0866A3AF51DE79, PS 22B3C387EFA0524B
+[2026-10-20 02:50:18.867] [info] [gpu] [t133623] Creating graphics pipeline state with VS A478F2E4BDD82213, PS D59CFBF9F0D07A5B
+[2026-10-20 02:50:18.867] [info] [gpu] [t133622] Creating graphics pipeline state with VS 207F3125C4E0D5B6, PS 485065E8F7E7B195
+[2026-10-20 02:50:18.867] [info] [gpu] [t133621] Creating graphics pipeline state with VS 1EE624C73E2AD819, PS 6752F83C7C24FE36
+[2026-10-20 02:50:18.867] [info] [gpu] [t133626] Creating graphics pipeline state with VS E901EFBF54A46C06, PS 9F21D7B50D3D3631
+[2026-10-20 02:50:18.867] [info] [gpu] [t133623] Creating graphics pipeline state with VS 94AA8B1D4C68F881, PS 3CD7E5B41D951C95
+[2026-10-20 02:50:18.867] [info] [gpu] [t133625] Creating graphics pipeline state with VS 11B4EA725E2D82EC, PS 8035B4CE58223601
+[2026-10-20 02:50:18.867] [info] [gpu] [t133622] Creating graphics pipeline state with VS D1CB4B255E18AF8C, PS EF19FC0DAE5ACDB1
+[2026-10-20 02:50:18.867] [info] [gpu] [t133625] Creating graphics pipeline state with VS AA68B5B87951CD96, PS 163CE95AC0B6D163
+[2026-10-20 02:50:18.867] [info] [gpu] [t133621] Creating graphics pipeline state with VS F2CCB12CE20B059E, PS 6DAE1B72B5E73378
+[2026-10-20 02:50:18.867] [info] [gpu] [t133623] Creating graphics pipeline state with VS F39CE6EBDACDC673, PS BEE42B83918C1F2F
+[2026-10-20 02:50:18.867] [info] [gpu] [t133622] Creating graphics pipeline state with VS 79137E9937B92F2D, PS D8B7320339E3A223
+[2026-10-20 02:50:18.867] [info] [gpu] [t133626] Creating graphics pipeline state with VS CC571B5698969835, PS CEFA92734D5B6995
+[2026-10-20 02:50:18.867] [info] [gpu] [t133625] Creating graphics pipeline state with VS 37C32EA2AB5624D8, PS 04ADEB44ED2CE173
+[2026-10-20 02:50:18.867] [info] [gpu] [t133625] Creating graphics pipeline state with VS F035A9B6BF9FE803, PS 23D87C6420340BDA
+[2026-10-20 02:50:18.867] [info] [gpu] [t133621] Creating graphics pipeline state with VS 3954D7F61EDE912D, PS A076B1879C3258DF
+[2026-10-20 02:50:18.868] [info] [gpu] [t133622] Creating graphics pipeline state with VS 01707C223DE0A700, PS 4A4F6F8546DD33F9
+[2026-10-20 02:50:18.868] [info] [gpu] [t133626] Creating graphics pipeline state with VS FAAEC8A9D3CA90E1, PS 846FDF87FA0752E9
+[2026-10-20 02:50:18.868] [info] [gpu] [t133625] Creating graphics pipeline state with VS 2C8FF4E02D228363, PS BB3756B3866DE218
+[2026-10-20 02:50:18.868] [info] [gpu] [t133624] Creating graphics pipeline state with VS D7B2C1EE85F9CF16, PS 3CA32EE4D0DC519A
+[2026-10-20 02:50:18.868] [info] [gpu] [t133621] Creating graphics pipeline state with VS 21F272A023C35EB0, PS 1109604AF0DCF01C
+[2026-10-20 02:50:18.868] [info] [gpu] [t133622] Creating graphics pipeline state with VS 5D98EE2BF18D4A68, PS DF2278650D26A088
+[2026-10-20 02:50:18.868] [info] [gpu] [t133626] Creating graphics pipeline state with VS 42FB7EAAA158E0DB, PS 04C0C1AFCA4BF831
+[2026-10-20 02:50:18.868] [info] [gpu] [t133622] Creating graphics pipeline state with VS 69B4847D489007C7, PS DCA57B9428AAD110
+[2026-10-20 02:50:18.868] [info] [gpu] [t133622] Creating graphics pipeline state with VS 92ED1B390014EB4D, PS DCA57B9428AAD110
+[2026-10-20 02:50:18.868] [info] [gpu] [t133622] Creating graphics pipeline state with VS C922E99CA4340730, PS A144FF19FB4D9305
+[2026-10-20 02:50:18.868] [info] [gpu] [t133625] Creating graphics pipeline state with VS 03246F903A3DA97A, PS 3D94A14E57AD297F
+[2026-10-20 02:50:18.868] [info] [gpu] [t133626] Creating graphics pipeline state with VS B2C2DBC2FE68CD0F, PS A24B67B3F8F906B7
+[2026-10-20 02:50:18.868] [info] [gpu] [t133622] Creating graphics pipeline state with VS 03246F903A3DA97A, PS DDAB519AE93CBC2F
+[2026-10-20 02:50:18.868] [info] [gpu] [t133624] Creating graphics pipeline state with VS 5B4289DDC7A64126, PS E1913377DB805EA1
+[2026-10-20 02:50:18.868] [info] [gpu] [t133621] Creating graphics pipeline state with VS 6F14A5029254F49D, PS E1913377DB805EA1
+[2026-10-20 02:50:18.868] [info] [gpu] [t133625] Creating graphics pipeline state with VS FE3AA56FC7BCCDDD, PS 2D014D32E73814E3
+[2026-10-20 02:50:18.868] [info] [gpu] [t133626] Creating graphics pipeline state with VS FE3AA56FC7BCCDDD, PS 2D014D32E73814E3
+[2026-10-20 02:50:18.868] [info] [gpu] [t133623] Creating graphics pipeline state with VS 5B4289DDC7A64126, PS 0FACB69D44B4FADC
+[2026-10-20 02:50:18.868] [info] [gpu] [t133624] Creating graphics pipeline state with VS FE3AA56FC7BCCDDD, PS 9ABEE498F0AFB60B
+[2026-10-20 02:50:18.868] [info] [gpu] [t133625] Creating graphics pipeline state with VS CE81AE65F9C5A57B, PS 7DC30A727962F9EB
+[2026-10-20 02:50:18.869] [info] [gpu] [t133624] Creating graphics pipeline state with VS 5B4289DDC7A64126, PS EDA364F673E9A6BD
+[2026-10-20 02:50:18.869] [info] [gpu] [t133625] Creating graphics pipeline state with VS 5B4289DDC7A64126, PS 3F8304ABE796E463
+[2026-10-20 02:50:18.869] [info] [gpu] [t133623] Creating graphics pipeline state with VS 5B4289DDC7A64126, PS 6E98CA0027F17654
+[2026-10-20 02:50:18.869] [info] [gpu] [t133624] Creating graphics pipeline state with VS 5B4289DDC7A64126, PS C350065000F5B6AD
+[2026-10-20 02:50:18.869] [info] [gpu] [t133625] Creating graphics pipeline state with VS E672B38FF33553C7, PS E564AAD0B35834AD
+[2026-10-20 02:50:18.869] [info] [gpu] [t133625] Creating graphics pipeline state with VS DAB93405F7249276, PS 9DD02DD3906A8BEF
+[2026-10-20 02:50:18.869] [info] [gpu] [t133622] Creating graphics pipeline state with VS 5F60E33EB3BA6309, PS CB3B60594E2A3E66
+[2026-10-20 02:50:18.869] [info] [gpu] [t133623] Creating graphics pipeline state with VS 83D57891F2FA5074, PS 0B39CFDF01153E0D
+[2026-10-20 02:50:18.871] [info] [gpu] [t133624] Creating graphics pipeline state with VS 180F3CF6A13C01F3, PS 3C303254EC8B306B
+[2026-10-20 02:50:18.871] [info] [gpu] [t133626] Creating graphics pipeline state with VS 180F3CF6A13C01F3, PS 3C303254EC8B306B
+[2026-10-20 02:50:18.871] [info] [gpu] [t133621] Creating graphics pipeline state with VS 9374AE2D0E274D27, PS AD6EC778F4D043E5
+[2026-10-20 02:50:18.871] [info] [gpu] [t133622] Creating graphics pipeline state with VS 32D44DED0DF7252A, PS 05340F900435569E
+[2026-10-20 02:50:18.871] [info] [gpu] [t133623] Creating graphics pipeline state with VS 9374AE2D0E274D27, PS AD6EC778F4D043E5
+[2026-10-20 02:50:18.871] [info] [gpu] [t133624] Creating graphics pipeline state with VS 315DE8552A850915, PS 1D6C4583690E1898
+[2026-10-20 02:50:18.871] [info] [gpu] [t133625] Creating graphics pipeline state with VS 49EC3B2BDAE91F79, PS 32B4E3E497CE1288
+[2026-10-20 02:50:18.871] [info] [gpu] [t133625] Creating graphics pipeline state with VS 2784083C655A1C1A, PS 29121FCE5633D4B9
+[2026-10-20 02:50:18.871] [info] [gpu] [t133625] Creating graphics pipeline state with VS 8228EF2514A6913A, PS 130484582B428E49
+[2026-10-20 02:50:18.871] [info] [gpu] [t133625] Creating graphics pipeline state with VS 0DA646D6DB8CE06C, PS 43C27E18C178F912
+[2026-10-20 02:50:18.871] [info] [gpu] [t133624] Creating graphics pipeline state with VS 0DA646D6DB8CE06C, PS 43C27E18C178F912
+[2026-10-20 02:50:18.871] [info] [gpu] [t133625] Creating graphics pipeline state with VS 6DCC667E06D47E4C, PS 594496C0FCCDD4B2
+[2026-10-20 02:50:18.871] [info] [gpu] [t133624] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.871] [info] [gpu] [t133624] Creating graphics pipeline state with VS B6C9863F710683EC, PS A4A965C189287B99
+[2026-10-20 02:50:18.871] [info] [gpu] [t133624] Creating graphics pipeline state with VS D974E56F5F5EE662, PS E550CDDE3EED31DA
+[2026-10-20 02:50:18.871] [info] [gpu] [t133624] Creating graphics pipeline state with VS B9DBF2B52536E0E5, PS 2CEE250FEDC661F4
+[2026-10-20 02:50:18.871] [info] [gpu] [t133624] Creating graphics pipeline state with VS 79034645B1CB882B, PS CAE1DB68AFFA9D3C
+[2026-10-20 02:50:18.871] [info] [gpu] [t133624] Creating graphics pipeline state with VS 29EAD25B53F275EB, PS CF453BD52292E8E8
+[2026-10-20 02:50:18.871] [info] [gpu] [t133624] Creating graphics pipeline state with VS 40CA81B9A949AEE8, PS 63CB90E28DB69658
+[2026-10-20 02:50:18.871] [info] [gpu] [t133624] Creating graphics pipeline state with VS 40CA81B9A949AEE8, PS 63CB90E28DB69658
+[2026-10-20 02:50:18.871] [info] [gpu] [t133622] Creating graphics pipeline state with VS 5329FFFF238DB34E, PS 9755779A4E36AB5C
+[2026-10-20 02:50:18.871] [info] [gpu] [t133624] Creating graphics pipeline state with VS 5329FFFF238DB34E, PS 9755779A4E36AB5C
+[2026-10-20 02:50:18.871] [info] [gpu] [t133625] Creating graphics pipeline state with VS D25C81F5BF6DD4C6, PS A6B7A82FC50749EF
+[2026-10-20 02:50:18.871] [info] [gpu] [t133622] Creating graphics pipeline state with VS D25C81F5BF6DD4C6, PS 7C8561BF36D8A56C
+[2026-10-20 02:50:18.872] [info] [gpu] [t133624] Creating graphics pipeline state with VS D25C81F5BF6DD4C6, PS 807A46F500E448B9
+[2026-10-20 02:50:18.872] [info] [gpu] [t133622] Creating graphics pipeline state with VS D25C81F5BF6DD4C6, PS E3D931FC98C38F54
+[2026-10-20 02:50:18.872] [info] [gpu] [t133625] Creating graphics pipeline state with VS 5329FFFF238DB34E, PS AA2BDF73A81683AF
+[2026-10-20 02:50:18.872] [info] [gpu] [t133622] Creating graphics pipeline state with VS 62FFAC6CD2D1F2AA, PS BA820CF1C4ADF6F2
+[2026-10-20 02:50:18.872] [info] [gpu] [t133625] Creating graphics pipeline state with VS 439DEC0EE021E37D, PS 219169FE52E1B73A
+[2026-10-20 02:50:18.872] [info] [gpu] [t133626] Creating graphics pipeline state with VS 9F9A0A23DF2D1941, PS 43B89892A6A7ABBF
+[2026-10-20 02:50:18.872] [info] [gpu] [t133621] Creating graphics pipeline state with VS 797E795CEE6E57DB, PS C0BF418B32663475
+[2026-10-20 02:50:18.872] [info] [gpu] [t133623] Creating graphics pipeline state with VS 956935A38084D1A8, PS 2C36CD33A4B36370
+[2026-10-20 02:50:18.872] [info] [gpu] [t133625] Creating graphics pipeline state with VS 24275E411D960376, PS 6157765597F0B322
+[2026-10-20 02:50:18.872] [info] [gpu] [t133625] Creating graphics pipeline state with VS C42FDE461F4CD688, PS 53816D084457FC73
+[2026-10-20 02:50:18.872] [info] [gpu] [t133622] Creating graphics pipeline state with VS 0CA830ACDF3E57E1, PS 06725F3669526D03
+[2026-10-20 02:50:18.872] [info] [gpu] [t133623] Creating graphics pipeline state with VS 2DC3462DE0707EAC, PS 2346C6D1DAD86332
+[2026-10-20 02:50:18.873] [info] [gpu] [t133622] Creating graphics pipeline state with VS 2DC3462DE0707EAC, PS 2346C6D1DAD86332
+[2026-10-20 02:50:18.873] [info] [gpu] [t133624] Creating graphics pipeline state with VS 049FB8CE1E6FB0BF, PS 13B1DC7D9708D421
+[2026-10-20 02:50:18.873] [info] [gpu] [t133623] Creating graphics pipeline state with VS 049FB8CE1E6FB0BF, PS 13B1DC7D9708D421
+[2026-10-20 02:50:18.873] [info] [gpu] [t133623] Creating graphics pipeline state with VS 72C0B951452DE8B5, PS D3AFB42FC9197C9F
+[2026-10-20 02:50:18.873] [info] [gpu] [t133623] Creating graphics pipeline state with VS 4ED4F49AB9E26484, PS 219F1FAC1C3033A8
+[2026-10-20 02:50:18.873] [info] [gpu] [t133623] Creating graphics pipeline state with VS 2594BFF22CB2CB59, PS C2C85D7A89C8D0C2
+[2026-10-20 02:50:18.873] [info] [gpu] [t133625] Creating graphics pipeline state with VS 5329FFFF238DB34E, PS AA2BDF73A81683AF
+[2026-10-20 02:50:18.873] [info] [gpu] [t133623] Creating graphics pipeline state with VS 5748D2AD84AC22EB, PS FDBBFFABCE98F4A2
+[2026-10-20 02:50:18.873] [info] [gpu] [t133623] Creating graphics pipeline state with VS C8BE3D9A7076945F, PS E3905A058B9E4E0B
+[2026-10-20 02:50:18.873] [info] [gpu] [t133625] Creating graphics pipeline state with VS D7E845F6A6DA8A41, PS 156FD909FDB33DC6
+[2026-10-20 02:50:18.873] [info] [gpu] [t133623] Creating graphics pipeline state with VS F73DECA606D6342E, PS 49EBBD4EC71B92FD
+[2026-10-20 02:50:18.873] [info] [gpu] [t133623] Creating graphics pipeline state with VS AF60981EEFC2E54E, PS 280C87B608830E65
+[2026-10-20 02:50:18.873] [info] [gpu] [t133623] Creating graphics pipeline state with VS A13394C47C7210C6, PS 950258BC58C9384F
+[2026-10-20 02:50:18.873] [info] [gpu] [t133623] Creating graphics pipeline state with VS BF4EBF1B65567627, PS CAE1DB68AFFA9D3C
+[2026-10-20 02:50:18.873] [info] [gpu] [t133623] Creating graphics pipeline state with VS 972D3EF6ABDC1D60, PS BCA129091F7429B5
+[2026-10-20 02:50:18.873] [info] [gpu] [t133625] Creating graphics pipeline state with VS DD0070F7016F740A, PS 6E6D0788F5A6E5C0
+[2026-10-20 02:50:18.873] [info] [gpu] [t133625] Creating graphics pipeline state with VS 057F512F8B750890, PS 4506EA7CC3291A59
+[2026-10-20 02:50:18.873] [info] [gpu] [t133623] Creating graphics pipeline state with VS C351ECDBCAB61D05, PS 01A2567836ACF469
+[2026-10-20 02:50:18.873] [info] [gpu] [t133626] Creating graphics pipeline state with VS 62FFAC6CD2D1F2AA, PS BA820CF1C4ADF6F2
+[2026-10-20 02:50:18.873] [info] [gpu] [t133621] Creating graphics pipeline state with VS 62FFAC6CD2D1F2AA, PS BA820CF1C4ADF6F2
+[2026-10-20 02:50:18.873] [info] [gpu] [t133621] Creating graphics pipeline state with VS 0CBC533419F61E0D, PS 80E3DCE6564F2367
+[2026-10-20 02:50:18.874] [info] [gpu] [t133606] Created 750 graphics pipelines from Vulkan storage (750 requested)
+[2026-10-20 02:50:18.883] [info] [core] [t133569] VulkanPresenter: Created 1920x1080 swapchain with format 44, color space 0, presentation mode 0
+[2026-10-20 02:50:18.886] [info] [krnl] [t133616] XexLoadImage('xam.xex', flags=00000009, min_version=00000000)
+[2026-10-20 02:50:18.886] [info] [krnl] [t133616] XexLoadImage: GetModule('xam.xex') -> xe:\xam.xex
+[2026-10-20 02:50:18.889] [warning] [fs] [t133630] VFS: '\Device' -> [no device]
+[2026-10-20 02:50:18.889] [error] [fs] [t133630] ResolvePath(\Device) failed - device not found
+[2026-10-20 02:50:18.889] [warning] [krnl] [t133630] [NtCreateFile] FAILED: path='\Device\Image' -> 0xc000000f
+[2026-10-20 02:50:18.889] [warning] [krnl] [t133630] Stub XFileFsDeviceInformation!
+[2026-10-20 02:50:18.889] [warning] [krnl] [t133630] IoDismountVolumeByFileHandle(0xf8000080) - stub
+[2026-10-20 02:50:18.889] [warning] [krnl] [t133630] Stub XFileFsDeviceInformation!
+[2026-10-20 02:50:18.889] [warning] [krnl] [t133630] IoDismountVolumeByFileHandle(0xf8000080) - stub
+[2026-10-20 02:50:18.889] [info] [krnl] [t133630] XexLoadImage('game:\XMediaFacade_default.xex', flags=00000009, min_version=00000000)
+[2026-10-20 02:50:18.889] [info] [krnl] [t133630] XexLoadImage: GetModule('game:\XMediaFacade_default.xex') -> NOT FOUND
+[2026-10-20 02:50:18.911] [info] [core] [t133630] Function table initialized for module: code=88050000-8824873C, image=88000000-882B0000
+[2026-10-20 02:50:18.911] [info] [core] [t133630] Registering module: xmediafacade_default.xex (code_base=88050000)
+[2026-10-20 02:50:18.911] [info] [core] [t133630] Module 'xmediafacade_default.xex' registered 3213 functions
+[2026-10-20 02:50:18.912] [warning] [krnl] [t133630] Stub XFileFsDeviceInformation!
+[2026-10-20 02:50:18.912] [warning] [krnl] [t133630] IoDismountVolumeByFileHandle(0xf800008c) - stub
+[2026-10-20 02:50:18.912] [warning] [krnl] [t133643] [ExCreateThread] Guest is creating a system thread!
+[2026-10-20 02:50:18.913] [warning] [krnl] [t133643] attmpted allocation to devkit memory area (debug_memory=1)
+[2026-10-20 02:50:18.913] [warning] [krnl] [t133643] __imp__ObReferenceObject STUB
+[2026-10-20 02:50:18.913] [warning] [fs] [t133630] VFS: 'update:\media.zip' -> [no device]
+[2026-10-20 02:50:18.913] [error] [fs] [t133630] ResolvePath(update:\media.zip) failed - device not found
+[2026-10-20 02:50:19.046] [info] [gpu] [t133652] SetInterruptCallback(82B707E0, 4015D980)
+[2026-10-20 02:50:19.316] [warning] [krnl] [t133630] [NtCreateFile] FAILED: path='game:\Media\effects\' -> 0xc000000f
+[2026-10-20 02:50:19.318] [warning] [krnl] [t133630] [NtCreateFile] FAILED: path='game:\Media\effects\' -> 0xc000000f
+[2026-10-20 02:50:19.391] [warning] [krnl] [t133630] [NtCreateFile] FAILED: path='game:\media\stringtables\en\' -> 0xc000000f
+[2026-10-20 02:50:19.442] [info] [apu] [t133630] audio endpoint 'Audio interne Stéréo analogique': 6 ch, 48000 Hz, format 0x8120; submitting 6 ch
+[2026-10-20 02:50:19.490] [warning] [krnl] [t133630] __imp__XamVoiceSetMicArrayIdleUsers STUB
+[2026-10-20 02:50:19.490] [warning] [krnl] [t133630] __imp__XamVoiceSetMicArrayIdleUsers STUB
+[2026-10-20 02:50:19.490] [warning] [krnl] [t133630] __imp__XamVoiceSetMicArrayIdleUsers STUB
+[2026-10-20 02:50:19.491] [warning] [krnl] [t133630] __imp__XamVoiceSetMicArrayIdleUsers STUB
+[2026-10-20 02:50:19.573] [info] [core] [t133630] SDL OnControllerDeviceAdded: "Xbox 360 Controller", JoystickType(Gamepad), GameControllerType(2), XInputSubType(GAMEPAD = 0x01), VendorID(0x045E), ProductID(0x028E), GUID(030081b85e0400008e02000014010000)
+[2026-10-20 02:50:19.573] [info] [core] [t133630] SDL OnControllerDeviceAdded: connection order 0, device 1.
+[2026-10-20 02:50:19.573] [info] [core] [t133630] SDL Controller 0: 030081b85e0400008e02000014010000,Xbox 360 Controller,a:b0,b:b1,x:b2,y:b3,back:b6,guide:b8,start:b7,leftstick:b9,rightstick:b10,leftshoulder:b4,rightshoulder:b5,dpup:h0.1,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,leftx:a0,lefty:a1,rightx:a3,righty:a4,lefttrigger:a2,righttrigger:a5,platform:Linux,
+[2026-10-20 02:50:19.573] [info] [core] [t133630] Wheel: no wheel among 1 SDL joystick(s)
+[2026-10-20 02:50:19.573] [info] [core] [t133630] New controller connected to slot 0.
+[2026-10-20 02:50:19.722] [warning] [krnl] [t133630] [NtCreateFile] FAILED: path='d:\DebugOptions.ini' -> 0xc000000f
+[2026-10-20 02:50:19.763] [error] [krnl] [t133630] XMsgStartIORequestEx: app 000000F1 undefined
+[2026-10-20 02:50:24.865] [warning] [krnl] [t133630] __imp__XamVoiceSetMicArrayIdleUsers STUB
+[2026-10-20 02:50:24.865] [warning] [krnl] [t133630] __imp__XamVoiceSetMicArrayIdleUsers STUB
+[2026-10-20 02:50:24.866] [warning] [krnl] [t133630] [NtCreateFile] FAILED: path='game:\Media\GameTunableSettings\BadgesAndTitles\' -> 0xc000000f
+[2026-10-20 02:50:24.949] [warning] [krnl] [t133630] [NtCreateFile] FAILED: path='B13EBABEBABEBABE:\StorefrontPurchaseHistory' -> 0xc000000f
+[2026-10-20 02:50:24.998] [warning] [krnl] [t133630] [NtCreateFile] FAILED: path='game:\media\db\patch\' -> 0xc000000f
+[2026-10-20 02:50:27.633] [warning] [krnl] [t133675] __imp__EtxProducerRegister STUB
+[2026-10-20 02:50:27.633] [warning] [krnl] [t133675] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:27.636] [error] [krnl] [t133675] Unimplemented XAM message app=000000FE, msg=0002B003, arg1=7078F930, arg2=00000000
+[2026-10-20 02:50:27.636] [warning] [krnl] [t133675] __imp__XamNuiCameraTiltSetCallback STUB
+[2026-10-20 02:50:27.636] [warning] [krnl] [t133675] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:27.636] [warning] [krnl] [t133675] __imp__XamGetActiveDashAppInfo STUB
+[2026-10-20 02:50:27.636] [warning] [krnl] [t133675] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:27.636] [warning] [krnl] [t133675] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:27.636] [info] [krnl] [t133675] XexLoadImage('game:\SpeechFacade_default.xex', flags=00000009, min_version=00000000)
+[2026-10-20 02:50:27.636] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:27.636] [info] [krnl] [t133675] XexLoadImage: GetModule('game:\SpeechFacade_default.xex') -> NOT FOUND
+[2026-10-20 02:50:27.654] [info] [core] [t133675] Function table initialized for module: code=890A0000-89208DF0, image=89000000-89240000
+[2026-10-20 02:50:27.654] [info] [core] [t133675] Registering module: speechfacade_default.xex (code_base=890A0000)
+[2026-10-20 02:50:27.656] [info] [core] [t133675] Module 'speechfacade_default.xex' registered 6820 functions
+[2026-10-20 02:50:27.657] [warning] [krnl] [t133675] __imp__EtxProducerRegister STUB
+[2026-10-20 02:50:27.666] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:27.670] [warning] [krnl] [t133630] __imp__NetDll_getsockopt STUB
+[2026-10-20 02:50:27.670] [warning] [krnl] [t133630] __imp__NetDll_getsockopt STUB
+[2026-10-20 02:50:27.696] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:27.726] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:27.738] [warning] [krnl] [t133675] [NtCreateFile] FAILED: path='game:\media\effects\' -> 0xc000000f
+[2026-10-20 02:50:27.749] [warning] [krnl] [t133675] [NtCreateFile] FAILED: path='game:\media\dynamicpost\colourgradingmaps\' -> 0xc000000f
+[2026-10-20 02:50:27.756] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:27.786] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:27.816] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:27.846] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:27.877] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:27.907] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:27.937] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:27.967] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:27.997] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.027] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.057] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.087] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.117] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.147] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.177] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.207] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.237] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.267] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.297] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.327] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.357] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.387] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.417] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.447] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.477] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.500] [info] [core] [t133630] Unregistering module: xmediafacade_default.xex (3213 functions)
+[2026-10-20 02:50:28.501] [error] [sys] [t133630] BaseHeap::Release failed because address is not a region start
+[2026-10-20 02:50:28.501] [error] [sys] [t133630] BaseHeap::Release failed because address is not a region start
+[2026-10-20 02:50:28.507] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.540] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.570] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.600] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.631] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.661] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.691] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.721] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.751] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.781] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.811] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.841] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.872] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.902] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.932] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.962] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:28.992] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.022] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.053] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.083] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.113] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.143] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.173] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.203] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.233] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.263] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.294] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.325] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.355] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.385] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.415] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.445] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.475] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.505] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.536] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.566] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.596] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.626] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.656] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.686] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.717] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.747] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.777] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.807] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.837] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.867] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.897] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.927] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.957] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:29.987] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.017] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.047] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.077] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.107] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.137] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.167] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.197] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.227] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.257] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.287] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.317] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.347] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.378] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.408] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.438] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.468] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.498] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.528] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.558] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.588] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.618] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.648] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.678] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.709] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.739] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.769] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.799] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.829] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.859] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.889] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.919] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.949] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:30.979] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.009] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.039] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.069] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.099] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.129] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.159] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.189] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.219] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.249] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.279] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.309] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.340] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.370] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.400] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.430] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.460] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.490] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.520] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.550] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.580] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.610] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.640] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.670] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.700] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.730] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.760] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.790] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.820] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.850] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.881] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.911] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.941] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:31.971] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.001] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.031] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.061] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.091] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.121] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.151] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.181] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.211] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.241] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.271] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.301] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.331] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.361] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.391] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.421] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.451] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.482] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.512] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.542] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.572] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.602] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.632] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.662] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.692] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.722] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.752] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.782] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.812] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.842] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.872] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.902] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.932] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.962] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:32.992] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.023] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.053] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.083] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.113] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.143] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.173] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.203] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.233] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.263] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.293] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.323] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.353] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.383] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.413] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.443] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.473] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.503] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.533] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.563] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.593] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.623] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.653] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.683] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.714] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.744] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.774] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.804] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.834] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.864] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.892] [info] [gpu] [t133606] Creating graphics pipeline state with VS 8B36CD37D3F3ACAA
+[2026-10-20 02:50:33.892] [info] [gpu] [t133608] Creating graphics pipeline state with VS 8B36CD37D3F3ACAA, PS 76F1DB0128D3A211
+[2026-10-20 02:50:33.894] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.911] [warning] [gpu] [t133606] Skipping Vulkan frame presentation due to async placeholder draw usage in this frame
+[2026-10-20 02:50:33.924] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.954] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:33.984] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.014] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.044] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.074] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.104] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.134] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.164] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.194] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.224] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.254] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.284] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.315] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.345] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.375] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.405] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.435] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.465] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.495] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.525] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.555] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.585] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.615] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.645] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.675] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.705] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.735] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.765] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.795] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.825] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.855] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.885] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.915] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.946] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:34.976] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.006] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.037] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.067] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.097] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.127] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.157] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.187] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.217] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.247] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.277] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.307] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.337] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.367] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.397] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.427] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.457] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.488] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.518] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.548] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.578] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.608] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.638] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.668] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.698] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.728] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.758] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.788] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.818] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.848] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.878] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.908] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.938] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.968] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:35.998] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:36.028] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:36.059] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:36.089] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:36.119] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:36.149] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:36.179] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:36.209] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:36.239] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:36.269] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:36.299] [warning] [krnl] [t133781] __imp__XamXStudioRequest STUB
+[2026-10-20 02:50:36.309] [info] [core] [t133569] Window closing, shutting down...
+[2026-10-20 02:50:36.311] [warning] [sys] [t133569] QueueUserCallback: signal delivery failed (3)
+[2026-10-20 02:50:36.311] [info] [core] [t133628] Execution complete
+[2026-10-20 02:50:36.512] [info] [core] [t133569] Title terminated; hard-exiting process.

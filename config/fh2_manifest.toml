@@ -1,0 +1,26 @@
+[project]
+sdk_version = "0.10.0"
+name = "FH2"
+
+[entrypoint]
+file_path = "../assets/default.xex"
+patch_file_path = "default.xexp"
+patched_file_path = "default_patched.xex"
+out_directory_path = "../generated"
+includes = [ "fh2_rexglue.toml" ]
+
+[[modules]]
+guest_path = "XMediaFacade_default.xex"
+file_path = "../assets/XMediaFacade_default.xex"
+patch_file_path = "XMediaFacade_default.xexp"
+patched_file_path = "XMediaFacade_default_patched.xex"
+out_directory_path = "../generated/xmediafacade"
+includes = [ "xmediafacade_rexglue.toml" ]
+
+[[modules]]
+guest_path = "SpeechFacade_default.xex"
+file_path = "../assets/SpeechFacade_default.xex"
+patch_file_path = "SpeechFacade_default.xexp"
+patched_file_path = "SpeechFacade_default_patched.xex"
+out_directory_path = "../generated/speechfacade"
+includes = [ "speechfacade_rexglue.toml" ]
