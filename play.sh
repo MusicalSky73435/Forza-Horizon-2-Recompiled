@@ -174,7 +174,7 @@ fi
 
 # --headless=true: guest dialogs (Xbox Live sign-in prompts, message boxes, keyboard)
 # auto-resolve with the default button instead of drawing the Xenia-style modal.
-env GDK_BACKEND=x11 LD_LIBRARY_PATH="$SDK_OUT" \
+env GDK_BACKEND=x11 LD_LIBRARY_PATH="$SDK_OUT:$G/project/out/build/linux-amd64/Release" \
   "$BIN" --game_data_root="$G/extracted" --gpu_plugin xenos \
   --gpu_allow_invalid_fetch_constants=true --audio_maxqframes=64 --license_mask=1 \
   --headless=true \
